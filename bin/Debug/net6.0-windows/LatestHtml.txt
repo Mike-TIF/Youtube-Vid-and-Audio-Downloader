@@ -1,0 +1,1552 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-30167046-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-30167046-1');
+</script>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-48Z9104CB8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-48Z9104CB8');
+</script>
+
+<meta property="og:image" content="https://songlibrary.net/resources/songlibrary-logo-1200x627.jpg" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="song, songs, for, children, sheet music, download, lyrics, choir, school, kids, sing, Australia, SongLibrary, worksheet" />
+		<meta name="description" content="Children's songs for primary, elementary & junior school - choir, chorus and music class. Download recordings, backing tracks, sheet music." />
+		<meta name="robots" content="index, follow" />
+		<meta name="generator" content="RapidWeaver" />
+		<link rel="apple-touch-icon" sizes="180x180" href="https://songlibrary.net/resources/large.png" />
+<link rel="apple-touch-icon" sizes="167x167" href="https://songlibrary.net/resources/songlibrary-167-square.png" />
+<link rel="icon" type="image/png" href="https://songlibrary.net/resources/favicon_large.png" sizes="64x64" />
+<link rel="icon" type="image/png" href="https://songlibrary.net/resources/favicon_medium.png" sizes="32x32" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://songlibrary.net/resources/small.png" />
+<link rel="icon" type="image/png" href="https://songlibrary.net/resources/favicon_small.png" sizes="16x16" />
+
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@songlibrary">
+	<meta name="twitter:creator" content="@songlibrary">
+	<meta name="twitter:title" content="Songs for children to sing - download now. | SongLibrary">
+	<meta name="twitter:url" content="https://songlibrary.net/index.php">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="SongLibrary | Songs For Children">
+	<meta property="og:title" content="Songs for children to sing - download now. | SongLibrary">
+	<meta property="og:url" content="https://songlibrary.net/index.php">
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Songs for children to sing - download now. | SongLibrary</title>
+		
+		<link rel="stylesheet" type="text/css" media="all" href="rw_common/themes/blueballfreestackresponsive/consolidated.css" />
+		
+		
+		
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		
+		<!--[if lt IE 9]>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+		<![endif]-->
+		
+		<!--[if lt IE 7]>
+		<script type="text/javascript">
+			if (navigator.platform == "Win32" && navigator.appName == "Microsoft Internet Explorer" && window.attachEvent) {
+				window.attachEvent("onload", enableAlphaImages);
+			}
+
+			function enableAlphaImages(){
+				var rslt = navigator.appVersion.match(/MSIE (\d+\.\d+)/, '');
+				var itsAllGood = (rslt != null && Number(rslt[1]) >= 5.5);
+				if (itsAllGood) {
+					for (var i=0; i<document.all.length; i++){
+						var obj = document.all[i];
+						var bg = obj.currentStyle.backgroundImage;
+						var img = document.images[i];
+						if (bg && bg.match(/\.png/i) != null) {
+							var img = bg.substring(5,bg.length-2);
+							var offset = obj.style["background-position"];
+							obj.style.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+img+"', sizingMethod='crop')";
+							obj.style.backgroundImage = "url('rw_common/themes/blueballfreestackresponsive/blank.gif')";
+							obj.style["background-position"] = offset; // reapply
+						} else if (img && img.src.match(/\.png$/i) != null) {
+							var src = img.src;
+							img.style.width = img.width + "px";
+							img.style.height = img.height + "px";
+							img.style.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+src+"', sizingMethod='crop')";
+							img.src = "rw_common/themes/blueballfreestackresponsive/blank.gif";
+						}
+
+					}
+				}
+			}
+		</script>
+		
+		<style>
+		.clearfix{ display: inline-block; }
+		</style>
+		<![endif]-->
+		
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"</script>
+		
+		<script type="text/javascript" src="rw_common/themes/blueballfreestackresponsive/javascript.js"></script>
+		
+		
+		<script type="text/javascript">
+			var bg_01 = 'resources/body_bg01.jpg';
+			var bg_02 = 'resources/body_bg02.jpg';
+			var bg_03 = 'resources/body_bg03.jpg';
+			var bg_04 = 'resources/body_bg04.jpg';
+			var bg_05 = 'resources/body_bg05.jpg';
+			var bg_06 = 'resources/body_bg06.jpg';
+			var bg_07 = 'resources/body_bg07.jpg';
+			var bg_08 = 'resources/body_bg08.jpg';
+			var bg_09 = 'resources/body_bg09.jpg';
+			var bg_10 = 'resources/body_bg10.jpg';
+			var bg_11 = 'resources/body_bg11.png';
+			var bg_12 = 'resources/body_bg12.png';
+			var bg_13 = 'resources/body_bg13.png';
+			var bg_14 = 'resources/body_bg14.png';
+			var bg_15 = 'resources/body_bg15.png';
+			var bg_16 = 'resources/body_bg16.png';
+			var bg_17 = 'resources/body_bg17.png';
+			var bg_18 = 'resources/body_bg18.png';
+			var bg_19 = 'resources/body_bg19.png';
+			var bg_20 = 'resources/body_bg20.png';
+		</script>
+		
+		<script src="rw_common/themes/blueballfreestackresponsive/scripts/bg/none.js"></script>
+		
+		<style type="text/css" media="all">h1 {
+font-family: 'Atma', sans-serif; color: #000000; font-weight: normal; font-size: 330%; font-style: normal; line-height:1em;  text-align: left; letter-spacing: 0.01em;
+}
+
+h2 {
+font-family: 'Arial', 'Helvetica', sans-serif; color: #000000; font-weight: normal;  font-style: normal; line-height:1em;  text-align: left; letter-spacing: 1px;
+}
+
+h3 {
+font-family: 'Arial', 'Helvetica', sans-serif; color: #666666; font-weight: normal;font-size: 115%; font-style: normal; line-height:1.2em;  text-align: left; letter-spacing: 0.8px; 
+}
+
+h4 {
+font-family: 'Arial', 'Helvetica', sans-serif; color: #444444; font-weight: normal; font-size: 175%; font-style: normal; line-height:1.1em;  text-align: left; letter-spacing: 0.01em;
+}
+
+h5 {
+font-family: 'Arial', sans-serif;  color: #111111; font-size: 100%;font-weight: normal; font-style: normal; line-height:1.2em;  text-align: left; letter-spacing: 0.02em;
+}
+
+ul {
+margin-bottom: 0em; margin-top: 0.2em; margin-left: -20px; color: #999999; 
+}
+
+#mc_embed_signup input.button {background-color: #FF6600;}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.email-octopus-form-row {
+	width: 210px;	
+}
+
+		</style>
+				<link rel='stylesheet' type='text/css' media='all' href='rw_common/plugins/stacks/stacks.css' />
+		<link rel='stylesheet' type='text/css' media='all' href='index_files/stacks_page_page74.css' />
+        <script type='text/javascript' charset='utf-8' src='rw_common/plugins/stacks/jquery-2.2.4.min.js'></script>
+        
+        <link rel="stylesheet" href="rw_common/plugins/stacks/font-awesome.min.css">
+        
+		
+		<script type='text/javascript' charset='utf-8' src='index_files/stacks_page_page74.js'></script>
+        <meta name="formatter" content="Stacks v4.3.0 (6300)" >
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackstyler" name="FreeStack Styler" content="7.0">
+		<meta class="stacks 4 stack version" id="com.yourhead.stack.4Columns" name="4 Columns (Stacks 2)" content="3.0.0">
+		<meta class="stacks 4 stack version" id="com.stacks4stacks.stacks.rwml.languageswitcher" name="RWML Language Switcher" content="2.1.0">
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackrfooter" name="FreeStack R Footer" content="2.0">
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackrrepositionalt" name="FreeStack R Reposition Alt" content="1.1.0">
+		<meta class="stacks 4 stack version" id="horizontal-line" name="Horizontal Line" content="">
+		<meta class="stacks 4 stack version" id="com.joeworkman.stacks.link3" name="Link" content="3.1.1">
+		<meta class="stacks 4 stack version" id="uk.co.doobox.notify" name="Notify" content="1.1.4">
+		<meta class="stacks 4 stack version" id="dk.denflinkegrafiker.stacks.linedeluxe" name="LineDeluxe (free)" content="3.0.0">
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackrreposition" name="FreeStack R Reposition" content="2.0.0">
+		<meta class="stacks 4 stack version" id="com.onelittledesigner.stacks.SimpleButtonsFree" name="Simple Buttons Free" content="1.1.2">
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackrmaxwidth" name="FreeStack R Max Width" content="2.3.1">
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackr2columns" name="FreeStack R 2Columns" content="2.0">
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackrstyler" name="FreeStack R Styler" content="2.0">
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackrhideshow" name="FreeStack R Hide-Show" content="1.1.0">
+		<meta class="stacks 4 stack version" id="com.stacks4stacks.stacks.supermenu" name="SuperMenu" content="1.4.0">
+		<meta class="stacks 4 stack version" id="com.stacks4stacks.stacks.linkbox" name="LinkBox" content="1.2.3">
+		<meta class="stacks 4 stack version" id="cleanQuotes (Inner)" name="cleanQuotes (Inner)" content="2.0.0">
+		<meta class="stacks 4 stack version" id="Doobox" name="True Retina" content="1.0.5">
+		<meta class="stacks 4 stack version" id="cleanQuotes (Container)" name="cleanQuotes (Container)" content="2.0.1">
+		<meta class="stacks 4 stack version" id="com.rwextras.supertooltipscontent" name="superTooltips 2 Content" content="1.0.2">
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackrimageurl" name="FreeStack R Image URL" content="1.1.0">
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackr3columns" name="FreeStack R 3Columns" content="2.0">
+		<meta class="stacks 4 stack version" id="com.vibralogix.vibracartprobutton" name="VCP Button" content="1.8.0">
+		<meta class="stacks 4 stack version" id="com.stacks4stacks.stacks.audioplayer" name="AudioPlayer" content="2.1.3">
+		<meta class="stacks 4 stack version" id="com.vibralogix.vibracartprocart" name="VCP Cart" content="1.5.0">
+		<meta class="stacks 4 stack version" id="com.stacks4stacks.stacks.minicookie" name="MiniCookie" content="2.3.1">
+		<meta class="stacks 4 stack version" id="com.rwextras.stacks.anchorpoint" name="Anchor Point" content="1.0.1">
+		<meta class="stacks 4 stack version" id="com.joeworkman.stacks.link" name="Link" content="3.1.1">
+		<meta class="stacks 4 stack version" id="com.stacks4stacks.stacks.rwml" name="RWML Base" content="2.3.1">
+		<meta class="stacks 4 stack version" id="com.joeworkman.stacks.fit-text" name="FitText (Legacy)" content="2.0.6">
+		<meta class="stacks 4 stack version" id="cssDiv" name="cssDiv" content="2.0.1">
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackrhide" name="FreeStack R Hide" content="1.1.0">
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackrimage" name="FreeStack R Image" content="2.0">
+		<meta class="stacks 4 stack version" id="com.blueballdesign.freestackcontent" name="FreeStack Content" content="6.5">
+		<meta class="stacks 4 stack version" id="com.stacks4stacks.stacks.rwml.wrapper" name="RWML Wrapper" content="2.1.0">
+		<meta class="stacks 4 stack version" id="com.rwextras.supertooltips" name="superTooltips 2" content="1.0.2">
+		<link href="vibracartpro/vcpopup.css" rel="stylesheet" type="text/css">
+<script src="https://js.stripe.com/v3/"></script>
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atma&display=swap" rel="stylesheet">  
+
+<a class="songs1" href="#songs1" data-songs="1"></a>
+<a class="songs2" href="#songs2" data-songs="2"></a>
+<a class="songs3" href="#songs3" data-songs="3"></a>
+<a class="songs4" href="#songs4" data-songs="4"></a>
+<a class="songs5" href="#songs5" data-songs="5"></a>
+
+<script type="text/javascript">
+  (function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
+  (w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
+  e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
+  })(window,document,'script','//s.swiftypecdn.com/install/v2/st.js','_st');
+ _st('install','CmVSqbkDCZQLznA1bFgR','2.0.0');
+</script>
+
+<meta name="alexaVerifyID" content="SB9ya66ikymKJ56fGNPb_bcnH1w"/>
+
+<meta name="google-site-verification"content="eZxl8hbhxut3YjgBomcu1yj1Omn1Er15HZXZUkyiAnA" />
+<meta name="p:domain_verify" content="fe2c1ecb5db7cc13711baf29565cca55"/>
+<meta name="msvalidate.01" content="0849B00C586406C9E61F01AA30A90F84" />
+                     
+<link rel="apple-touch-icon-precomposed" href="touch-icon-iphone.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="touch-icon-ipad.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="touch-icon-ipad-retina.png">
+
+<meta property="og:url" content="https://songlibrary.net" />
+
+<meta property="og:image" content="https://songlibrary.net/resources/songlibrary-logo-1200x627.jpg" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="SongLibrary - songs for children to sing"/>
+<meta name="twitter:description" content="Download age-appropriate songs for children 5-13. For choir, classroom and solo voice."/>
+<meta name="twitter:site" content="@songlibrary"/>
+<meta name="twitter:image" content="https://songlibrary.net/resources/songlibrary-logo-1200x627.jpg"/>
+	
+	<link rel="alternate" href="https://songlibrary.net/./?lang=cad" hreflang="cad" />
+<link rel="alternate" href="https://songlibrary.net/./?lang=eur" hreflang="eur" />
+<link rel="alternate" href="https://songlibrary.net/./?lang=gbp" hreflang="gbp" />
+<link rel="alternate" href="https://songlibrary.net/./?lang=nzd" hreflang="nzd" />
+<link rel="alternate" href="https://songlibrary.net/./?lang=usd" hreflang="usd" />
+</head>
+	
+	<!-- This page was created using the Blueball FreeStack responsive theme v1.5 from Blueball Design. http://freestackresponsive.blueballdesign.com -->
+	
+	<body>
+	
+	<div id="pagecontainer">
+
+		<div id="pagewrapper">
+			
+<div id='stacks_out_16892' class='stacks_top'><div id='stacks_in_16892' class=''><div id='stacks_out_2817207' class='stacks_out'><div id='stacks_in_2817207' class='stacks_in '>
+
+
+<div id="rwml-master">
+	
+
+	<div class='slice empty out'><div class='slice empty in'></div></div>
+</div>
+<div id='stacks_out_2817207_116' class='stacks_out'><div id='stacks_in_2817207_116' class='stacks_in com_blueballdesign_freestackrhideshow_stack'>
+<div id="stacks_in_2817207_116desktopcontent"><div class='slice empty out'><div class='slice empty in'></div></div></div>
+
+<div id="stacks_in_2817207_116mobilecontent"><div id='stacks_out_2817207_128' class='stacks_out'><div id='stacks_in_2817207_128' class='stacks_in com_stacks4stacks_stacks_supermenu_stack'><div id="SuperMenuWrapperstacks_in_2817207_128" class="SuperMenuWrapper">
+	<div id="SuperMenu1" class="SuperMenuButton">
+		<span id='stacks_in_2817207_134'><strong>&mdash;<br />&mdash;<br />&mdash;</strong></span>
+		
+	</div><!--/SuperMenuButton-->
+	<div id="ButtonBottom-SuperMenu1" class="ButtonBottom"></div>
+	
+	<div id="SuperMenuPanel-SuperMenu1" class="SuperMenuPanel">
+		<div id="SuperMenuClosestacks_in_2817207_128" class="SuperMenuClose"><img src="" alt="x"></div>
+		<div id="SuperMenuFillstacks_in_2817207_128" class="SuperMenuFill"></div>
+		<div id="SuperMenuContentstacks_in_2817207_128" class="SuperMenuContent"><div id='stacks_out_2817207_129' class='stacks_out'><div id='stacks_in_2817207_129' class='stacks_in com_blueballdesign_freestackrstyler_stack'><div id='stacks_out_2817207_130' class='stacks_out'><div id='stacks_in_2817207_130' class='stacks_in text_stack'><a href="./" title="Home">home</a><br /><a href="About/" title="About">about</a><br /><a href="FAQ/" title="FAQ">FAQ</a><br /><a href="blog/" title="Blog">blog</a><br /><a href="commissions/" title="Commissions">commissions</a><br /><a href="contact/" title="Contact">contact</a></div></div>
+</div></div></div>
+	</div><!--/SuperMenuPanel-->
+	
+</div><!--/SuperMenuWrapper-->
+
+<!--[if lte IE 8]>
+<style type="text/stylesheet">
+#SuperMenuPanel-SuperMenu1 {
+	margin-top: -5px;
+}
+</style>
+<![endif]--></div></div></div>
+</div></div><div id='stacks_out_2817207_58' class='stacks_out'><div id='stacks_in_2817207_58' class='stacks_in stack_stack'><!-- MiniCookie, version 2.3.1 -->
+
+<div id="mini_cookie_stack_stacks_in_2817207_59" class="mini_cookie_stack">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="mini_cookie_window_shade_stacks_in_2817207_59" class="mini_cookie_window_shade"></div>
+<div id="mini_cookie_wrapper_stacks_in_2817207_59" class="mini_cookie_wrapper" role="dialog" aria-labelledby="dialog_title_stacks_in_2817207_59" aria-describedby="dialog_desc_stacks_in_2817207_59">
+	<h3 id="dialog_title_stacks_in_2817207_59"></h3>
+  <p id="dialog_desc_stacks_in_2817207_59"></p>
+	<div id="mini_cookie_stacks_in_2817207_59" class="mini_cookie">
+		<div id="mini_cookie_content_stacks_in_2817207_59" class="mini_cookie_content">
+			<div id='stacks_out_2817207_60' class='stacks_out'><div id='stacks_in_2817207_60' class='stacks_in com_blueballdesign_freestackrstyler_stack'><div id='stacks_out_2817207_61' class='stacks_out'><div id='stacks_in_2817207_61' class='stacks_in text_stack'><span id='stacks_in_2817207_63'>We use cookies on this website to provide you with a better user experience. <br />By using the SongLibrary you accept the use of cookies as described in our <a href="privacy-policy/" title="Privacy Policy">privacy policy</a>. Thank you!</span></div></div>
+</div></div>
+		</div>
+		<div id="mini_cookie_consent_button_wrapper_stacks_in_2817207_59" class="mini_cookie_consent_button_wrapper">
+			<button id="mini_cookie_button_stacks_in_2817207_59" class="mini_cookie_button" tabindex="1">ACCEPT</button>
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div></div>
+<!-- Vibracart Pro: Cart v1.5.0 by Vibralogix -->
+
+
+<!-- End Vibracart Pro: Cart --><div id='stacks_out_2817207_2' class='stacks_out'><div id='stacks_in_2817207_2' class='stacks_in stack_stack'><div id='stacks_out_2817207_3' class='stacks_out'><div id='stacks_in_2817207_3' class='stacks_in com_blueballdesign_freestackrmaxwidth_stack'><div id='stacks_out_2817207_4' class='stacks_out'><div id='stacks_in_2817207_4' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2817207_4">
+<div id="fsr_leftcol_stacks_in_2817207_4"><div class="leftcolpad_stacks_in_2817207_4"><div id='stacks_out_2817207_5' class='stacks_out'><div id='stacks_in_2817207_5' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2817207_6' class='stacks_out'><div id='stacks_in_2817207_6' class='stacks_in Doobox_stack'><!-- Start True Retina stack template -->
+<div class='centered_image' >
+    <a href="./" title="Home"><img class='imageStyle' src='index_files/stacks-image-57c0a36-120x80.png' alt='songlibrary logo'  srcset='index_files/stacks-image-57c0a36-120x80.png 1x, index_files/stacks-image-57c0a36-120x80@2x.png 2x' /></a>
+</div>
+
+<!-- End True Retina stack template --></div></div>
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2817207_4"><div class="rightcolpad_stacks_in_2817207_4"><div id='stacks_out_2817207_14' class='stacks_out'><div id='stacks_in_2817207_14' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2817207_14">
+<div id="fsr_leftcol_stacks_in_2817207_14"><div class="leftcolpad_stacks_in_2817207_14"><div id='stacks_out_2817207_17' class='stacks_out stacks_s_hidden'><div id='stacks_in_2817207_17' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2817207_19' class='stacks_out'><div id='stacks_in_2817207_19' class='stacks_in html_stack'><form>
+  <input type="text" class="st-default-search-input" placeholder="Search this site..."/>
+</form></div></div>
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2817207_14"><div class="rightcolpad_stacks_in_2817207_14"><div id='stacks_out_2817207_32' class='stacks_out'><div id='stacks_in_2817207_32' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2817207_32">
+<div id="fsr_leftcol_stacks_in_2817207_32"><div class="leftcolpad_stacks_in_2817207_32"><div id='stacks_out_2817207_33' class='stacks_out'><div id='stacks_in_2817207_33' class='stacks_in stack_stack'>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div id="rwml_language_switcher_stacks_in_2817207_35" class="rwml_language_switcher">
+		<form id="rwml_switch_language_form_stacks_in_2817207_35" name="rwml_switch_language_form_stacks_in_2817207_35">
+		<div class="form-group">
+
+		<select id="rwml_switch_dropdown_stacks_in_2817207_35" class="rwml_switch_dropdown">
+
+			<option selected disabled hidden>
+			Australian Dollars&nbsp;																														</option>
+
+			
+				<option value="/?lang=aud">Australian Dollars</option>
+			
+			
+				<option value="/?lang=cad">Canadian Dollars</option>
+			
+			
+				<option value="/?lang=eur">European Union Euro</option>
+			
+			
+				<option value="/?lang=gbp">Great British Pounds</option>
+			
+			
+				<option value="/?lang=nzd">New Zealand Dollars</option>
+			
+			
+				<option value="/?lang=usd">US Dollar</option>
+			
+			
+			
+			
+			
+		</select>
+		</div>
+		</form>
+	</div>
+	
+
+
+
+
+
+
+
+
+
+<div id='stacks_out_2817207_41' class='stacks_out'><div id='stacks_in_2817207_41' class='stacks_in text_stack'><span id='stacks_in_2817207_42'><span style="color:#656565;">change currency</span></span></div></div></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2817207_32"><div class="rightcolpad_stacks_in_2817207_32"><div id='stacks_out_2817207_50' class='stacks_out'><div id='stacks_in_2817207_50' class='stacks_in stack_stack'><div id='stacks_out_2817207_48' class='stacks_out'><div id='stacks_in_2817207_48' class='stacks_in html_stack'><div id="vcpminicartinfo">
+  <span id="showitemcount">0</span> item(s)<br>
+  <span id="vcpminishowcart" onclick="showCart(); return(false);">view cart</span>
+</div></div></div><div id='stacks_out_2817207_56' class='stacks_out'><div id='stacks_in_2817207_56' class='stacks_in text_stack'><a href="my-downloads/" title="my-downloads">login</a></div></div></div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div><div id='stacks_out_2817207_104' class='stacks_out'><div id='stacks_in_2817207_104' class='stacks_in com_blueballdesign_freestackrhideshow_stack'>
+<div id="stacks_in_2817207_104desktopcontent"><div id='stacks_out_2817207_100' class='stacks_out'><div id='stacks_in_2817207_100' class='stacks_in com_blueballdesign_freestackrstyler_stack'><div id='stacks_out_2817207_77' class='stacks_out'><div id='stacks_in_2817207_77' class='stacks_in com_yourhead_stacks_two_columns_stack'><div class='s3_row'>
+	<div class='s3_column s3_column_left'><div id='stacks_out_2817207_80' class='stacks_out'><div id='stacks_in_2817207_80' class='stacks_in com_yourhead_stacks_three_columns_stack'><div class='s3_row'>
+	<div class='s3_column s3_column_left'><div id='stacks_out_2817207_88' class='stacks_out'><div id='stacks_in_2817207_88' class='stacks_in text_stack'><a href="./" title="Home">home</a></div></div></div>
+	<div class='s3_column s3_column_center'><div id='stacks_out_2817207_90' class='stacks_out'><div id='stacks_in_2817207_90' class='stacks_in text_stack'><a href="About/" title="About">about</a></div></div></div>
+	<div class='s3_column s3_column_right'><div id='stacks_out_2817207_92' class='stacks_out'><div id='stacks_in_2817207_92' class='stacks_in text_stack'><a href="FAQ/" title="FAQ">FAQ</a></div></div></div>
+</div></div></div></div>
+	<div class='s3_column s3_column_right'><div id='stacks_out_2817207_84' class='stacks_out'><div id='stacks_in_2817207_84' class='stacks_in com_yourhead_stacks_three_columns_stack'><div class='s3_row'>
+	<div class='s3_column s3_column_left'><div id='stacks_out_2817207_94' class='stacks_out'><div id='stacks_in_2817207_94' class='stacks_in text_stack'><a href="blog/" title="Blog">blog</a></div></div></div>
+	<div class='s3_column s3_column_center'><div id='stacks_out_2817207_96' class='stacks_out'><div id='stacks_in_2817207_96' class='stacks_in text_stack'><a href="commissions/" title="Commissions">commissions</a></div></div></div>
+	<div class='s3_column s3_column_right'><div id='stacks_out_2817207_98' class='stacks_out'><div id='stacks_in_2817207_98' class='stacks_in text_stack'><a href="contact/" title="Contact">contact</a></div></div></div>
+</div></div></div></div>
+</div></div></div>
+</div></div></div>
+
+<div id="stacks_in_2817207_104mobilecontent"><div class='slice empty out'><div class='slice empty in'></div></div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div>
+</div></div></div></div></div></div><div id='stacks_out_2807949' class='stacks_out'><div id='stacks_in_2807949' class='stacks_in stack_stack'><div id='stacks_out_2807950' class='stacks_out'><div id='stacks_in_2807950' class='stacks_in com_blueballdesign_freestackrmaxwidth_stack'><div id='stacks_out_2807951' class='stacks_out'><div id='stacks_in_2807951' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2807951">
+<div id="fsr_leftcol_stacks_in_2807951"><div class="leftcolpad_stacks_in_2807951"><div id='stacks_out_2816525' class='stacks_out'><div id='stacks_in_2816525' class='stacks_in '><div id='stacks_out_2816525_1' class='stacks_out'><div id='stacks_in_2816525_1' class='stacks_in stack_stack'><div id='stacks_out_2816525_22' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816525_22' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816525_27' class='stacks_out'><div id='stacks_in_2816525_27' class='stacks_in cleanQuotes (Container)_stack'><div id="cleanQuotes_stacks_in_2816525_27" class="theme5 quoteBorders transparentOff bgIcon fixedHeightOff">
+	<section class="flexslider testimonial-slider">
+		<ul class="slides">
+			<div id='stacks_out_2816525_29' class='stacks_out'><div id='stacks_in_2816525_29' class='stacks_in cleanQuotes (Inner)_stack'><li style="width: 100%; float: left; margin-right: -100%; position: relative;" class="testimonial testimonial_stacks_in_2816525_29">
+	<div class="testimonials"><div id='stacks_out_2816525_20' class='stacks_out'><div id='stacks_in_2816525_20' class='stacks_in text_stack'><span style="font-size:17px; color:#FFFFFF;font-weight:bold; "><em>&hellip;age-appropriate, inspiring, singable and loved by my students.</em></span></div></div></div>
+	<div class="quoteArrow"></div>
+	<div class="testimonials-author"><span style="font-size:11px; color:#666666;">Katherine Khandjian</span> <span><span style="font-size:11px; color:#666666;">- Music Specialist MD, USA</span></span></div>
+	<img src="" class="authorIconOff authorIconAlignleft authorBorderOff" />
+</li>
+
+</div></div>
+		</ul>
+	</section>
+</div></div></div>
+</div></div><div id='stacks_out_2816525_2' class='stacks_out'><div id='stacks_in_2816525_2' class='stacks_in com_blueballdesign_freestackrreposition_stack'><div id='stacks_out_2816525_4' class='stacks_out'><div id='stacks_in_2816525_4' class='stacks_in text_stack'><span id='stacks_in_2816525_5'><h1>New Songs for Children to Sing</h1></span></div></div><div id='stacks_out_2816525_8' class='stacks_out'><div id='stacks_in_2816525_8' class='stacks_in com_blueballdesign_freestackrreposition_stack'><div id='stacks_out_2816525_13' class='stacks_out'><div id='stacks_in_2816525_13' class='stacks_in com_joeworkman_stacks_fit-text_stack'><div id='stacks_out_2816525_14' class='stacks_out'><div id='stacks_in_2816525_14' class='stacks_in text_stack'><h3>primary school &bull; junior school &bull; elementary school &bull; middle school &bull; community choir &bull; private studio</h3></div></div> 
+</div></div><div id='stacks_out_2816525_9' class='stacks_out'><div id='stacks_in_2816525_9' class='stacks_in com_joeworkman_stacks_fit-text_stack'><div id='stacks_out_2816525_10' class='stacks_out'><div id='stacks_in_2816525_10' class='stacks_in text_stack'><h5>CHOIR &bull; CHORUS &bull; CLASSROOM &bull; SOLO</h5></div></div> 
+</div></div>
+</div></div>
+</div></div></div></div></div></div><div id='stacks_out_2817203' class='stacks_out'><div id='stacks_in_2817203' class='stacks_in com_blueballdesign_freestackrhide_stack'><div id="stacks_in_2817203desktopcontent"><div id='stacks_out_2817186' class='stacks_out stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2817186' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><a href="Special-offer/" title="Special offer" class="block-link"> <div id='stacks_out_2817219' class='stacks_out'><div id='stacks_in_2817219' class='stacks_in text_stack'><span id='stacks_in_2817220'><span style="font-size:17px; color:#000000;font-weight:bold; ">SPECIAL OFFER</span><span style="color:#FFFEFE;"><br /></span><span style="font-size:15px; color:#FFFEFE;font-weight:bold; ">Download EVERY  Song Pack<br /></span><span style="color:#0066FF;"><a href="Special-offer/" title="Special offer" style="color: #ffffff;  text-decoration-line: underline;">Find out more&hellip;</a></span><br /></span></div></div> </a> 
+
+</div></div></div></div></div><div id='stacks_out_2816526' class='stacks_out'><div id='stacks_in_2816526' class='stacks_in '><div id='stacks_out_2816526_1' class='stacks_out'><div id='stacks_in_2816526_1' class='stacks_in com_blueballdesign_freestackrhide_stack'><div id="stacks_in_2816526_1desktopcontent"><div id='stacks_out_2816526_2' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816526_2' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816526_3' class='stacks_out'><div id='stacks_in_2816526_3' class='stacks_in stack_stack'><div id='stacks_out_2816526_4' class='stacks_out'><div id='stacks_in_2816526_4' class='stacks_in image_stack'>
+<div class='centered_image' >
+    <img class='imageStyle' src='index_files/stacks-image-f3bb4d9.png' alt='download-icon' />
+</div>
+
+</div></div><div id='stacks_out_2816526_6' class='stacks_out'><div id='stacks_in_2816526_6' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816526_7' class='stacks_out'><div id='stacks_in_2816526_7' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816526_8' class='stacks_out'><div id='stacks_in_2816526_8' class='stacks_in text_stack'><span style="color:#000000;">Song downloads include:<br /></span><span style="color:#000000;font-weight:bold; ">&bull; vocal recording</span><span style="color:#000000;"> mp3 <br /></span><span style="color:#000000;font-weight:bold; ">&bull; backing track</span><span style="color:#000000;"> mp3 <br /></span><span style="color:#000000;font-weight:bold; ">&bull; sheet music</span><span style="color:#000000;"> pdf <br /></span><span style="color:#000000;font-weight:bold; ">&bull; lyrics & notes</span><span style="color:#000000;"> pdf </span></div></div>
+</div></div><div id='stacks_out_2816526_11' class='stacks_out'><div id='stacks_in_2816526_11' class='stacks_in text_stack'><p style="text-align:center;"><span style="font-size:19px; color:#FF6600;font-weight:bold; ">Try it NOW!<br /></span><span style="font-size:17px; color:#000000;">A complete song pack</span></p></div></div><div id='stacks_out_2816526_13' class='stacks_out'><div id='stacks_in_2816526_13' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816526_14' class='stacks_out'><div id='stacks_in_2816526_14' class='stacks_in html_stack'><a href="https://transactions.sendowl.com/products/78021273/02625354/add_to_cart" rel="nofollow"><button class="butn">Free Download</button/></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script></div></div>
+</div></div><div id='stacks_out_2816526_166' class='stacks_out'><div id='stacks_in_2816526_166' class='stacks_in text_stack'><p style="text-align:center;"><span style="font-size:11px; ">Find out about the song </span><span style="font-size:11px; "><a href="Rainbows-and-Canyons/" title="Rainbows and Canyons">Rainbows and Canyons</a></span></p></div></div></div>
+</div></div></div></div>
+</div></div><div id='stacks_out_2816526_20' class='stacks_out'><div id='stacks_in_2816526_20' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816526_21' class='stacks_out'><div id='stacks_in_2816526_21' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816526_22' class='stacks_out'><div id='stacks_in_2816526_22' class='stacks_in com_joeworkman_stacks_fit-text_stack'><div id='stacks_out_2816526_23' class='stacks_out'><div id='stacks_in_2816526_23' class='stacks_in text_stack'><span style="color:#000000;font-weight:bold; ">SongLibrary</span><span style="color:#000000;"> is a collection of modern, age-appropriate songs for children to sing.<br /></span></div></div><div id='stacks_out_2816526_69' class='stacks_out'><div id='stacks_in_2816526_69' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816526_69">
+<div id="fsr_leftcol_stacks_in_2816526_69"><div class="leftcolpad_stacks_in_2816526_69"><div id='stacks_out_2816526_25' class='stacks_out'><div id='stacks_in_2816526_25' class='stacks_in text_stack'><span style="color:#000000;">I aim to provide well-crafted, educational, fun songs with great resources for teachers to</span>&nbsp;<span style="color:#000000;font-weight:bold; ">download instantly.<br /></span></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816526_69"><div class="rightcolpad_stacks_in_2816526_69"><div id='stacks_out_2816526_62' class='stacks_out'><div id='stacks_in_2816526_62' class='stacks_in Doobox_stack'><!-- Start True Retina stack template -->
+<div class='centered_image' >
+    <img class='imageStyle' src='index_files/stacks-image-58b0b99-64x88.jpg' alt='Stacks Image 2817067'  srcset='index_files/stacks-image-58b0b99-64x88.jpg 1x, index_files/stacks-image-58b0b99-64x88@2x.jpg 2x' />
+</div>
+
+<!-- End True Retina stack template --></div></div><div id='stacks_out_2816526_76' class='stacks_out'><div id='stacks_in_2816526_76' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816526_74' class='stacks_out'><div id='stacks_in_2816526_74' class='stacks_in text_stack'><p style="text-align:center;"><strong>Glyn Lehmann</strong><br />composer/songwriter</p></div></div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div> 
+</div></div><div id='stacks_out_2816526_29' class='stacks_out'><div id='stacks_in_2816526_29' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816526_30' class='stacks_out'><div id='stacks_in_2816526_30' class='stacks_in text_stack'><span id='stacks_in_2816526_31'><span style="color:#CC6600;">Subscribe to my newsletter for the latest SongLibrary updates and receive 20% off your first purchase.</span><br /><span style="color:#666666;">I will never share your information.</span></span></div></div></div>
+</div></div><div id='stacks_out_2816526_136' class='stacks_out'><div id='stacks_in_2816526_136' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816526_134' class='stacks_out'><div id='stacks_in_2816526_134' class='stacks_in html_stack'><script async src="https://eomail1.com/form/68e23bea-21a8-11ed-9a32-0241b9615763.js" data-form="68e23bea-21a8-11ed-9a32-0241b9615763"></script></div></div></div>
+</div></div><div id='stacks_out_2816526_280' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816526_280' class='stacks_in horizontal-line_stack'><div class='myLine' style='display:block; height:auto; border-top-style:solid; border-top-color:#D6D6D6; border-top-width:1px; font-size:1%;'></div></div></div><div id='stacks_out_2816526_116' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816526_116' class='stacks_in stack_stack'><div id='stacks_out_2816526_141' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816526_141' class='stacks_in text_stack'><p style="text-align:center;"><span style="font-size:19px; "><a href="Christmas-Songs/" title="Christmas Songs">Songs for Christmas and the holidays</a></span></p></div></div><div id='stacks_out_2816526_143' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816526_143' class='stacks_in com_stacks4stacks_stacks_linkbox_stack'><!-- Link box stack by Will Woodgate. Visit http://www/stacks4stacks.com for more information -->
+<div id="linkBoxstacks_in_2816526_143" class="linkBox">
+	<div id="linkBoxLinkstacks_in_2816526_143"><a href="Christmas-Songs/" title="Christmas Songs"></a></div>
+	
+	<div id="linkBoxContentstacks_in_2816526_143"><div id='stacks_out_2816526_144' class='stacks_out'><div id='stacks_in_2816526_144' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816526_144_image"><img src='https://songlibrary.net/resources/song-images/Christmas-Songs-180.jpg' alt=''></div>
+
+</div></div></div>
+</div><!--/linkBox--></div></div><div id='stacks_out_2816526_168' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816526_168' class='stacks_in horizontal-line_stack'><div class='myLine' style='display:block; height:auto; border-top-style:solid; border-top-color:#D6D6D6; border-top-width:1px; font-size:1%;'></div></div></div><div id='stacks_out_2816526_180' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816526_180' class='stacks_in stack_stack'><div id='stacks_out_2816526_132' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816526_132' class='stacks_in text_stack'><p style="text-align:center;"><span style="font-size:20px; color:#FF6600;font-weight:bold; ">NEW for 2022</span></p></div></div><div id='stacks_out_2816526_160' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816526_160' class='stacks_in stack_stack'><div id='stacks_out_2816526_155' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816526_155' class='stacks_in com_stacks4stacks_stacks_linkbox_stack'><!-- Link box stack by Will Woodgate. Visit http://www/stacks4stacks.com for more information -->
+<div id="linkBoxstacks_in_2816526_155" class="linkBox">
+	<div id="linkBoxLinkstacks_in_2816526_155"><a href="Deeper-Down/" title="Deeper Down"></a></div>
+	
+	<div id="linkBoxContentstacks_in_2816526_155"><div id='stacks_out_2816526_156' class='stacks_out'><div id='stacks_in_2816526_156' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816526_156_image"><img src='https://songlibrary.net/resources/song-images/Deeper_Down_180.jpg' alt=''></div>
+
+</div></div></div>
+</div><!--/linkBox--></div></div><div id='stacks_out_2816526_158' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816526_158' class='stacks_in text_stack'><span id='stacks_in_2816526_159'><p style="text-align:center;"><span style="font-size:18px; "><a href="Deeper-Down/" title="Deeper Down">Deeper Down</a></span></p></span></div></div><div id='stacks_out_2816526_162' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816526_162' class='stacks_in text_stack'><span id='stacks_in_2816526_163'><span style="color:#666666;"><em>With lyrics by A.B.'Banjo' Patterson, this dramatic, bluesy song tells the story of a squatter's desperate search for water in the Australian outback.</em></span></span></div></div></div></div></div></div><div id='stacks_out_2816526_220' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816526_220' class='stacks_in horizontal-line_stack'><div class='myLine' style='display:block; height:auto; border-top-style:solid; border-top-color:#D6D6D6; border-top-width:1px; font-size:1%;'></div></div></div><div id='stacks_out_2816526_169' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816526_169' class='stacks_in stack_stack'><div id='stacks_out_2816526_174' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816526_174' class='stacks_in com_stacks4stacks_stacks_linkbox_stack'><!-- Link box stack by Will Woodgate. Visit http://www/stacks4stacks.com for more information -->
+<div id="linkBoxstacks_in_2816526_174" class="linkBox">
+	<div id="linkBoxLinkstacks_in_2816526_174"><a href="The-Silent-Call-of-Kati-Thanda/" title="The Silent Call of Kati Thanda"></a></div>
+	
+	<div id="linkBoxContentstacks_in_2816526_174"><div id='stacks_out_2816526_175' class='stacks_out'><div id='stacks_in_2816526_175' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816526_175_image"><img src='https://songlibrary.net/resources/song-images/The_Silent_Call_of_Kati_Thanda_180.jpg' alt=''></div>
+
+</div></div></div>
+</div><!--/linkBox--></div></div><div id='stacks_out_2816526_172' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816526_172' class='stacks_in text_stack'><p style="text-align:center;"><span style="font-size:19px; "><a href="The-Silent-Call-of-Kati-Thanda/" title="The Silent Call of Kati Thanda">The Silent Call of Kati Thanda</a></span></p></div></div><div id='stacks_out_2816526_177' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816526_177' class='stacks_in text_stack'><span style="color:#666666;"><em>Explore the mystery of this amazing lake. How do thousands upon thousands of birds know when this dry salt pan fills with floodwater?</em></span></div></div></div></div></div></div></div>
+</div></div><div id='stacks_out_2816526_261' class='stacks_out'><div id='stacks_in_2816526_261' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816526_262' class='stacks_out'><div id='stacks_in_2816526_262' class='stacks_in stack_stack'><div id='stacks_out_2816526_264' class='stacks_out'><div id='stacks_in_2816526_264' class='stacks_in com_stacks4stacks_stacks_linkbox_stack'><!-- Link box stack by Will Woodgate. Visit http://www/stacks4stacks.com for more information -->
+<div id="linkBoxstacks_in_2816526_264" class="linkBox">
+	<div id="linkBoxLinkstacks_in_2816526_264"><a href="Simple-Things/" title="Simple Things"></a></div>
+	
+	<div id="linkBoxContentstacks_in_2816526_264"><div id='stacks_out_2816526_265' class='stacks_out'><div id='stacks_in_2816526_265' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816526_265_image"><img src='https://songlibrary.net/resources/song-images/simple-things-180.jpg' alt=''></div>
+
+</div></div></div>
+</div><!--/linkBox--></div></div><div id='stacks_out_2816526_267' class='stacks_out'><div id='stacks_in_2816526_267' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816526_268' class='stacks_out'><div id='stacks_in_2816526_268' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816526_269' class='stacks_out'><div id='stacks_in_2816526_269' class='stacks_in text_stack'><span style="color:#666666;"><a href="Simple-Things/" title="Simple Things">Simple Things</a></span><span style="color:#000000;"> is offered as a song of hope and encouragement in this time of the COVID-19 pandemic.</span></div></div>
+</div></div><div id='stacks_out_2816526_272' class='stacks_out'><div id='stacks_in_2816526_272' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816526_273' class='stacks_out'><div id='stacks_in_2816526_273' class='stacks_in com_onelittledesigner_stacks_SimpleButtonsFree_stack'><div id="buttonContainer_stacks_in_2816526_273">
+	<a href="https://songlibrary.net/Simple-Things" class="simpleButton_stacks_in_2816526_273 simpleButton alignCenter textShadowOn buttonShadowOn borderOff transparentOff buttonGradientOff" >
+		<span style="font-size:13px; ">Free download</span>
+	</a>
+</div>
+</div></div></div>
+</div></div><div id='stacks_out_2816526_276' class='stacks_out'><div id='stacks_in_2816526_276' class='stacks_in text_stack'><span style="color:#000000;">Song Pack includes:<br /></span><ul class="disc"><li><span style="color:#000000;font-weight:bold; ">vocal recording</span></li><li><span style="color:#000000;font-weight:bold; ">backing track</span></li><li><span style="color:#000000;font-weight:bold; ">piano/vocal score</span></li><li><span style="color:#000000;font-weight:bold; ">lead sheet</span></li><li><span style="color:#000000;font-weight:bold; ">lyrics & notes</span><span style="color:#000000;"> </span></li></ul></div></div></div>
+</div></div></div></div>
+</div></div><div id='stacks_out_2816526_147' class='stacks_out stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816526_147' class='stacks_in com_joeworkman_stacks_link_stack'><a href="Full-Voice-Store/" title="Full Voice"> <div id='stacks_out_2816526_148' class='stacks_out'><div id='stacks_in_2816526_148' class='stacks_in stack_stack'><div id='stacks_out_2816526_149' class='stacks_out'><div id='stacks_in_2816526_149' class='stacks_in text_stack'><strong><a href="https://fullvoicemusic.com/voice-teaching-resources/workbooks/" target="_blank">FULL VOICE WORKBOOKS</a></strong><br /><span style="color:#333333;">This four-level workbook series provides a curriculum specialized for the young singing students in your voice studio. Every 56-page FULL VOICE Workbook includes:<br /><br /></span><ul class="disc"><li><span style="color:#333333;">    Technical Exercises</span></li><li><span style="color:#333333;">    Sol-fa/Solf&egrave;ge Exercises</span></li><li><span style="color:#333333;">    Ear Training</span></li><li><span style="color:#333333;">    Rhythm Reading</span></li><li><span style="color:#333333;">    Sight Singing</span></li><li><span style="color:#333333;">    Theory</span></li><li><span style="color:#333333;">    Performance Assessments</span></li></ul><br /><a href="https://fullvoicemusic.com/voice-teaching-resources/workbooks/" target="_blank">Find out more on the Full Voice Music website&hellip;</a></div></div><div id='stacks_out_2816526_151' class='stacks_out'><div id='stacks_in_2816526_151' class='stacks_in image_stack'>
+<div class='centered_image' >
+    <img class='imageStyle' src='index_files/stacks-image-32c9ab6.jpg' alt='Stacks Image 152' />
+</div>
+
+</div></div></div></div> </a> 
+</div></div>
+</div></div></div></div></div></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2807951"><div class="rightcolpad_stacks_in_2807951"><div id='stacks_out_2817097' class='stacks_out'><div id='stacks_in_2817097' class='stacks_in horizontal-line_stack'><div class='myLine' style='display:block; height:auto; border-top-style:solid; border-top-color:#CCCCCC; border-top-width:1px; font-size:1%;'></div></div></div><div id='stacks_out_2816502' class='stacks_out'><div id='stacks_in_2816502' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2817178' class='stacks_out'><div id='stacks_in_2817178' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2817215' class='stacks_out'><div id='stacks_in_2817215' class='stacks_in text_stack'><span id='stacks_in_2817216'><h4>Teachers&hellip;everything you need in every Song Pack!</h4></span></div></div><div id='stacks_out_2817095' class='stacks_out'><div id='stacks_in_2817095' class='stacks_in text_stack'><h5>Vocal recording &bull; backing track (instrumental) &bull; piano/guitar/vocal score &bull; lyric sheet&hellip;and more. </h5></div></div>
+</div></div><div id='stacks_out_2816649' class='stacks_out'><div id='stacks_in_2816649' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816619' class='stacks_out'><div id='stacks_in_2816619' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816619">
+<div id="fsr_leftcol_stacks_in_2816619"><div class="leftcolpad_stacks_in_2816619"><div id='stacks_out_2816620' class='stacks_out'><div id='stacks_in_2816620' class='stacks_in com_blueballdesign_freestackr3columns_stack'><!-- FreeStack Responsive 3Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_3colwrap_stacks_in_2816620">
+<div id="fsr_left3col_stacks_in_2816620"><div class="left3colpad_stacks_in_2816620"><div id='stacks_out_2816622' class='stacks_out'><div id='stacks_in_2816622' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816733' class='stacks_out'><div id='stacks_in_2816733' class='stacks_in com_blueballdesign_freestackrhideshow_stack'>
+<div id="stacks_in_2816733desktopcontent"><div id='stacks_out_2816604' class='stacks_out'><div id='stacks_in_2816604' class='stacks_in com_onelittledesigner_stacks_SimpleButtonsFree_stack'><div id="buttonContainer_stacks_in_2816604">
+	<a href="https://songlibrary.net" class="simpleButton_stacks_in_2816604 simpleButton alignLeft textShadowOff buttonShadowOff borderOff transparentOff buttonGradientOff" >
+		most popular
+	</a>
+</div>
+</div></div></div>
+
+<div id="stacks_in_2816733mobilecontent"><div id='stacks_out_2816736' class='stacks_out'><div id='stacks_in_2816736' class='stacks_in com_onelittledesigner_stacks_SimpleButtonsFree_stack'><div id="buttonContainer_stacks_in_2816736">
+	<a href="https://songlibrary.net" class="simpleButton_stacks_in_2816736 simpleButton alignLeft textShadowOff buttonShadowOff borderOff transparentOff buttonGradientOff" >
+		most popular
+	</a>
+</div>
+</div></div></div>
+</div></div>
+</div></div></div></div>
+<div id="fsr_center3col_stacks_in_2816620"><div class="center3colpad_stacks_in_2816620"><div id='stacks_out_2816628' class='stacks_out'><div id='stacks_in_2816628' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816607' class='stacks_out'><div id='stacks_in_2816607' class='stacks_in com_onelittledesigner_stacks_SimpleButtonsFree_stack'><div id="buttonContainer_stacks_in_2816607">
+	<a href="https://songlibrary.net/all-songs" class="simpleButton_stacks_in_2816607 simpleButton alignLeft textShadowOff buttonShadowOff borderOff transparentOff buttonGradientOff" >
+		all songs
+	</a>
+</div>
+</div></div>
+</div></div></div></div>
+<div id="fsr_right3col_stacks_in_2816620"><div class="right3colpad_stacks_in_2816620"><div id='stacks_out_2816633' class='stacks_out'><div id='stacks_in_2816633' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816610' class='stacks_out'><div id='stacks_in_2816610' class='stacks_in com_onelittledesigner_stacks_SimpleButtonsFree_stack'><div id="buttonContainer_stacks_in_2816610">
+	<a href="https://songlibrary.net/songs-ages-5-8" class="simpleButton_stacks_in_2816610 simpleButton alignLeft textShadowOff buttonShadowOff borderOff transparentOff buttonGradientOff" >
+		ages 5-8
+	</a>
+</div>
+</div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 3Columns Stack -->
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816619"><div class="rightcolpad_stacks_in_2816619"><div id='stacks_out_2816639' class='stacks_out'><div id='stacks_in_2816639' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816639">
+<div id="fsr_leftcol_stacks_in_2816639"><div class="leftcolpad_stacks_in_2816639"><div id='stacks_out_2816640' class='stacks_out'><div id='stacks_in_2816640' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816613' class='stacks_out'><div id='stacks_in_2816613' class='stacks_in com_onelittledesigner_stacks_SimpleButtonsFree_stack'><div id="buttonContainer_stacks_in_2816613">
+	<a href="https://songlibrary.net/songs-ages-8-13" class="simpleButton_stacks_in_2816613 simpleButton alignLeft textShadowOff buttonShadowOff borderOff transparentOff buttonGradientOff" >
+		ages 8-13
+	</a>
+</div>
+</div></div>
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816639"><div class="rightcolpad_stacks_in_2816639"><div id='stacks_out_2816738' class='stacks_out'><div id='stacks_in_2816738' class='stacks_in com_blueballdesign_freestackrhideshow_stack'>
+<div id="stacks_in_2816738desktopcontent"><div id='stacks_out_2816616' class='stacks_out'><div id='stacks_in_2816616' class='stacks_in com_onelittledesigner_stacks_SimpleButtonsFree_stack'><div id="buttonContainer_stacks_in_2816616">
+	<a href="https://songlibrary.net/school-musicals" class="simpleButton_stacks_in_2816616 simpleButton alignLeft textShadowOff buttonShadowOff borderOff transparentOff buttonGradientOff" >
+		musicals
+	</a>
+</div>
+</div></div></div>
+
+<div id="stacks_in_2816738mobilecontent"><div id='stacks_out_2816741' class='stacks_out'><div id='stacks_in_2816741' class='stacks_in com_onelittledesigner_stacks_SimpleButtonsFree_stack'><div id="buttonContainer_stacks_in_2816741">
+	<a href="https://songlibrary.net/school-musicals" class="simpleButton_stacks_in_2816741 simpleButton alignLeft textShadowOff buttonShadowOff borderOff transparentOff buttonGradientOff" >
+		musicals
+	</a>
+</div>
+</div></div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div>
+</div></div><div id='stacks_out_2816731' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816731' class='stacks_in text_stack'><p style="text-align:center;"><span style="font-size:16px; color:#FFFFFF;font-weight:bold; ">SongLibrary TOP 10</span></p></div></div>
+</div></div><div id='stacks_out_2815962' class='stacks_out'><div id='stacks_in_2815962' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2814742' class='stacks_out'><div id='stacks_in_2814742' class='stacks_in stack_stack'><div id='stacks_out_2814743' class='stacks_out'><div id='stacks_in_2814743' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2814743">
+<div id="fsr_leftcol_stacks_in_2814743"><div class="leftcolpad_stacks_in_2814743"><div id='stacks_out_2814744' class='stacks_out'><div id='stacks_in_2814744' class='stacks_in com_joeworkman_stacks_link_stack'><a href="I-Am-The-Earth/" title="I Am The Earth"> <div id='stacks_out_2814745' class='stacks_out'><div id='stacks_in_2814745' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2814745_image"><img src='https://songlibrary.net/resources/song-images/I-Am-The-Earth_72.png' alt=''></div>
+
+</div></div> </a> 
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2814743"><div class="rightcolpad_stacks_in_2814743"><div id='stacks_out_2814748' class='stacks_out'><div id='stacks_in_2814748' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2814748">
+<div id="fsr_leftcol_stacks_in_2814748"><div class="leftcolpad_stacks_in_2814748"><div id='stacks_out_2814749' class='stacks_out'><div id='stacks_in_2814749' class='stacks_in text_stack'><span style="font-size:17px; ">1. </span><span style="font-size:17px; "><a href="I-Am-The-Earth/" title="I Am The Earth">I Am The Earth</a></span><span style="font-size:17px; "> </span></div></div><div id='stacks_out_2814751' class='stacks_out'><div id='stacks_in_2814751' class='stacks_in text_stack'>A dialogue between the Earth and the world's children. A good introduction to 2-part singing and environmental awareness.&nbsp;<span style="font-size:14px; color:#333333;"><a href="I-Am-The-Earth/" target="self" title="I Am The Earth">more&hellip; </a></span><span style="font-size:14px; color:#333333;"> </span><span style="font-size:16px; color:#333333;">         </span><span style="font-size:14px; color:#333333;">         </span></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2814748"><div class="rightcolpad_stacks_in_2814748"><div id='stacks_out_2816416' class='stacks_out'><div id='stacks_in_2816416' class='stacks_in com_stacks4stacks_stacks_audioplayer_stack'><div id="audioPlayerContainerstacks_in_2816416" class="audioPlayerContainer audioPlayerPaused">
+	
+	<audio id="audioPlayerstacks_in_2816416" class="audioPlayer"  preload="metadata" >
+		<source src="https://songlibrary.net/resources/I-Am-The-Earth/I-Am-The-Earth-preview.mp3" type="audio/mpeg" class="audio-mp3" />
+		
+		
+	</audio>
+	
+	<div id="audioPlayerControlsstacks_in_2816416" class="audioPlayerControls">
+		<div id="audioPlayerControlsWrapperstacks_in_2816416" class="audioPlayerControlsWrapper">
+			<button type="button" id="audioPlayerPlayPausestacks_in_2816416" class="audioPlayerPlayPause"><i class="fa fa-play"></i></button>
+			<div class="audioPlayerAudioTimingstacks_in_2816416 audioPlayerAudioTiming">
+				<span id="audioPlayerCurrentTimestacks_in_2816416" class="audioPlayerCurrentTime">00:00</span>
+			</div>
+			<div id="audioPlayerTimeDividerstacks_in_2816416" class="audioPlayerAudioTiming">
+				/
+			</div>
+			<div id="progressBarstacks_in_2816416" class="progressBar">
+				<input type="range" id="audioPlayerSeekBarstacks_in_2816416" value="0" class="audioPlayerSeekBar">
+			</div>
+			<div class="audioPlayerAudioTimingstacks_in_2816416 audioPlayerAudioTiming">
+				<span id="audioPlayerDurationstacks_in_2816416" class="audioPlayerDuration">00:00</span>
+			</div>
+			<div id="volumestacks_in_2816416" class="audioPlayerVolume">
+				<i id="volumeButtonstacks_in_2816416" class="volumeButton fa fa-volume-down"></i>
+				<i id="volumeMinstacks_in_2816416" class="volumeMin fa fa-volume-off"></i>
+				<i id="volumeMaxstacks_in_2816416" class="volumeMin volumeMax fa fa-volume-up"></i>
+				<input type="range" id="volume-barstacks_in_2816416" class="volume-bar" min="0" max="1" step="0.1" value="1.00">
+			</div>
+		</div>
+	</div>
+</div>
+</div></div><div id='stacks_out_2814762' class='stacks_out'><div id='stacks_in_2814762' class='stacks_in text_stack'><p style="text-align:center;"><span style="color:#FF6600;font-weight:bold; ">1 million views on YouTube</span></p></div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div><div id='stacks_out_2814766' class='stacks_out'><div id='stacks_in_2814766' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2814766">
+<div id="fsr_leftcol_stacks_in_2814766"><div class="leftcolpad_stacks_in_2814766"><div id='stacks_out_2814767' class='stacks_out'><div id='stacks_in_2814767' class='stacks_in com_joeworkman_stacks_link_stack'><a href="Everyone-Belongs/" title="Everyone Belongs"> <div id='stacks_out_2814768' class='stacks_out'><div id='stacks_in_2814768' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2814768_image"><img src='https://songlibrary.net/resources/song-images/Everyone-Belongs-72.png' alt=''></div>
+
+</div></div> </a> 
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2814766"><div class="rightcolpad_stacks_in_2814766"><div id='stacks_out_2814771' class='stacks_out'><div id='stacks_in_2814771' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2814771">
+<div id="fsr_leftcol_stacks_in_2814771"><div class="leftcolpad_stacks_in_2814771"><div id='stacks_out_2814772' class='stacks_out'><div id='stacks_in_2814772' class='stacks_in text_stack'><span style="font-size:17px; ">2. </span><span style="font-size:17px; "><a href="Everyone-Belongs/" title="Everyone Belongs">Everyone Belongs</a></span></div></div><div id='stacks_out_2814774' class='stacks_out'><div id='stacks_in_2814774' class='stacks_in text_stack'>An uplifting song celebrating our differences. In a hip hop style with a rap section and a catchy chorus with handclaps. <span style="font-size:14px; color:#333333;"><a href="Everyone-Belongs/" target="self" title="Everyone Belongs">more...</a></span></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2814771"><div class="rightcolpad_stacks_in_2814771"><div id='stacks_out_2814777' class='stacks_out'><div id='stacks_in_2814777' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2814778' class='stacks_out'><div id='stacks_in_2814778' class='stacks_in com_stacks4stacks_stacks_audioplayer_stack'><div id="audioPlayerContainerstacks_in_2814778" class="audioPlayerContainer audioPlayerPaused">
+	
+	<audio id="audioPlayerstacks_in_2814778" class="audioPlayer"  preload="metadata" >
+		<source src="https://songlibrary.net/resources/Everyone-Belongs/Everyone_Belongs_edit.mp3" type="audio/mpeg" class="audio-mp3" />
+		
+		
+	</audio>
+	
+	<div id="audioPlayerControlsstacks_in_2814778" class="audioPlayerControls">
+		<div id="audioPlayerControlsWrapperstacks_in_2814778" class="audioPlayerControlsWrapper">
+			<button type="button" id="audioPlayerPlayPausestacks_in_2814778" class="audioPlayerPlayPause"><i class="fa fa-play"></i></button>
+			<div class="audioPlayerAudioTimingstacks_in_2814778 audioPlayerAudioTiming">
+				<span id="audioPlayerCurrentTimestacks_in_2814778" class="audioPlayerCurrentTime">00:00</span>
+			</div>
+			<div id="audioPlayerTimeDividerstacks_in_2814778" class="audioPlayerAudioTiming">
+				/
+			</div>
+			<div id="progressBarstacks_in_2814778" class="progressBar">
+				<input type="range" id="audioPlayerSeekBarstacks_in_2814778" value="0" class="audioPlayerSeekBar">
+			</div>
+			<div class="audioPlayerAudioTimingstacks_in_2814778 audioPlayerAudioTiming">
+				<span id="audioPlayerDurationstacks_in_2814778" class="audioPlayerDuration">00:00</span>
+			</div>
+			<div id="volumestacks_in_2814778" class="audioPlayerVolume">
+				<i id="volumeButtonstacks_in_2814778" class="volumeButton fa fa-volume-down"></i>
+				<i id="volumeMinstacks_in_2814778" class="volumeMin fa fa-volume-off"></i>
+				<i id="volumeMaxstacks_in_2814778" class="volumeMin volumeMax fa fa-volume-up"></i>
+				<input type="range" id="volume-barstacks_in_2814778" class="volume-bar" min="0" max="1" step="0.1" value="1.00">
+			</div>
+		</div>
+	</div>
+</div>
+</div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div><div id='stacks_out_2817015' class='stacks_out'><div id='stacks_in_2817015' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2817015">
+<div id="fsr_leftcol_stacks_in_2817015"><div class="leftcolpad_stacks_in_2817015"><div id='stacks_out_2817016' class='stacks_out'><div id='stacks_in_2817016' class='stacks_in com_joeworkman_stacks_link_stack'><a href="Giant-Of-The-Forest/" title="Giant Of The Forest"> <div id='stacks_out_2817017' class='stacks_out'><div id='stacks_in_2817017' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2817017_image"><img src='https://songlibrary.net/resources/song-images/Giant-Of-The-Forest-72.jpg' alt=''></div>
+
+</div></div> </a> 
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2817015"><div class="rightcolpad_stacks_in_2817015"><div id='stacks_out_2817020' class='stacks_out'><div id='stacks_in_2817020' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2817020">
+<div id="fsr_leftcol_stacks_in_2817020"><div class="leftcolpad_stacks_in_2817020"><div id='stacks_out_2817021' class='stacks_out'><div id='stacks_in_2817021' class='stacks_in text_stack'><span style="font-size:17px; ">3. </span><span style="font-size:17px; "><a href="Giant-Of-The-Forest/" title="Giant Of The Forest">Giant of the Forest</a></span>&nbsp;<span style="font-size:16px; color:#FF6633;"><em>new!</em></span></div></div><div id='stacks_out_2817023' class='stacks_out'><div id='stacks_in_2817023' class='stacks_in text_stack'>In the Huon Valley in Tasmania stands the world's largest flowering plant and 2nd tallest tree - the mighty Centurion Tree. <span style="font-size:14px; color:#333333;"><a href="Giant-Of-The-Forest/" target="self" title="Giant Of The Forest">more&hellip; </a></span><span style="font-size:14px; color:#333333;">    </span><span style="font-size:16px; color:#333333;">      </span><span style="font-size:14px; color:#333333;">         </span></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2817020"><div class="rightcolpad_stacks_in_2817020"><div id='stacks_out_2817028' class='stacks_out'><div id='stacks_in_2817028' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2817029' class='stacks_out'><div id='stacks_in_2817029' class='stacks_in com_stacks4stacks_stacks_audioplayer_stack'><div id="audioPlayerContainerstacks_in_2817029" class="audioPlayerContainer audioPlayerPaused">
+	
+	<audio id="audioPlayerstacks_in_2817029" class="audioPlayer"  preload="metadata" >
+		<source src="https://songlibrary.net/resources/Giant-Of-The-Forest/Giant_Of_The_Forest_vocal.mp3" type="audio/mpeg" class="audio-mp3" />
+		
+		
+	</audio>
+	
+	<div id="audioPlayerControlsstacks_in_2817029" class="audioPlayerControls">
+		<div id="audioPlayerControlsWrapperstacks_in_2817029" class="audioPlayerControlsWrapper">
+			<button type="button" id="audioPlayerPlayPausestacks_in_2817029" class="audioPlayerPlayPause"><i class="fa fa-play"></i></button>
+			<div class="audioPlayerAudioTimingstacks_in_2817029 audioPlayerAudioTiming">
+				<span id="audioPlayerCurrentTimestacks_in_2817029" class="audioPlayerCurrentTime">00:00</span>
+			</div>
+			<div id="audioPlayerTimeDividerstacks_in_2817029" class="audioPlayerAudioTiming">
+				/
+			</div>
+			<div id="progressBarstacks_in_2817029" class="progressBar">
+				<input type="range" id="audioPlayerSeekBarstacks_in_2817029" value="0" class="audioPlayerSeekBar">
+			</div>
+			<div class="audioPlayerAudioTimingstacks_in_2817029 audioPlayerAudioTiming">
+				<span id="audioPlayerDurationstacks_in_2817029" class="audioPlayerDuration">00:00</span>
+			</div>
+			<div id="volumestacks_in_2817029" class="audioPlayerVolume">
+				<i id="volumeButtonstacks_in_2817029" class="volumeButton fa fa-volume-down"></i>
+				<i id="volumeMinstacks_in_2817029" class="volumeMin fa fa-volume-off"></i>
+				<i id="volumeMaxstacks_in_2817029" class="volumeMin volumeMax fa fa-volume-up"></i>
+				<input type="range" id="volume-barstacks_in_2817029" class="volume-bar" min="0" max="1" step="0.1" value="1.00">
+			</div>
+		</div>
+	</div>
+</div>
+</div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div><div id='stacks_out_2817031' class='stacks_out'><div id='stacks_in_2817031' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2817031">
+<div id="fsr_leftcol_stacks_in_2817031"><div class="leftcolpad_stacks_in_2817031"><div id='stacks_out_2817032' class='stacks_out'><div id='stacks_in_2817032' class='stacks_in com_joeworkman_stacks_link_stack'><a href="The-Earth-Turns/" title="The Earth Turns"> <div id='stacks_out_2817033' class='stacks_out'><div id='stacks_in_2817033' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2817033_image"><img src='https://songlibrary.net/resources/song-images/The_Earth_Turns_72.jpg' alt=''></div>
+
+</div></div> </a> 
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2817031"><div class="rightcolpad_stacks_in_2817031"><div id='stacks_out_2817036' class='stacks_out'><div id='stacks_in_2817036' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2817036">
+<div id="fsr_leftcol_stacks_in_2817036"><div class="leftcolpad_stacks_in_2817036"><div id='stacks_out_2817037' class='stacks_out'><div id='stacks_in_2817037' class='stacks_in text_stack'><span style="font-size:17px; ">4. </span><span style="font-size:17px; "><a href="The-Earth-Turns/" title="The Earth Turns">The Earth Turns</a></span>&nbsp;<span style="font-size:16px; color:#FF6633;"><em>new!</em></span></div></div><div id='stacks_out_2817039' class='stacks_out'><div id='stacks_in_2817039' class='stacks_in text_stack'>As each new day dawns we have a chance to care for the earth, knowing that <em>'from today, tomorrow will grow.'</em> <span style="font-size:14px; color:#333333;"><a href="The-Earth-Turns/" target="self" title="The Earth Turns">more&hellip; </a></span><span style="font-size:16px; color:#333333;">          </span><span style="font-size:14px; color:#333333;">         </span></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2817036"><div class="rightcolpad_stacks_in_2817036"><div id='stacks_out_2817044' class='stacks_out'><div id='stacks_in_2817044' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2817047' class='stacks_out'><div id='stacks_in_2817047' class='stacks_in com_stacks4stacks_stacks_audioplayer_stack'><div id="audioPlayerContainerstacks_in_2817047" class="audioPlayerContainer audioPlayerPaused">
+	
+	<audio id="audioPlayerstacks_in_2817047" class="audioPlayer"  preload="auto" >
+		<source src="https://songlibrary.net/resources/The-Earth-Turns/The_Earth_Turns_vocal.mp3" type="audio/mpeg" class="audio-mp3" />
+		
+		
+	</audio>
+	
+	<div id="audioPlayerControlsstacks_in_2817047" class="audioPlayerControls">
+		<div id="audioPlayerControlsWrapperstacks_in_2817047" class="audioPlayerControlsWrapper">
+			<button type="button" id="audioPlayerPlayPausestacks_in_2817047" class="audioPlayerPlayPause"><i class="fa fa-play"></i></button>
+			<div class="audioPlayerAudioTimingstacks_in_2817047 audioPlayerAudioTiming">
+				<span id="audioPlayerCurrentTimestacks_in_2817047" class="audioPlayerCurrentTime">00:00</span>
+			</div>
+			<div id="audioPlayerTimeDividerstacks_in_2817047" class="audioPlayerAudioTiming">
+				/
+			</div>
+			<div id="progressBarstacks_in_2817047" class="progressBar">
+				<input type="range" id="audioPlayerSeekBarstacks_in_2817047" value="0" class="audioPlayerSeekBar">
+			</div>
+			<div class="audioPlayerAudioTimingstacks_in_2817047 audioPlayerAudioTiming">
+				<span id="audioPlayerDurationstacks_in_2817047" class="audioPlayerDuration">00:00</span>
+			</div>
+			<div id="volumestacks_in_2817047" class="audioPlayerVolume">
+				<i id="volumeButtonstacks_in_2817047" class="volumeButton fa fa-volume-down"></i>
+				<i id="volumeMinstacks_in_2817047" class="volumeMin fa fa-volume-off"></i>
+				<i id="volumeMaxstacks_in_2817047" class="volumeMin volumeMax fa fa-volume-up"></i>
+				<input type="range" id="volume-barstacks_in_2817047" class="volume-bar" min="0" max="1" step="0.1" value="1.00">
+			</div>
+		</div>
+	</div>
+</div>
+</div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div><div id='stacks_out_2816999' class='stacks_out'><div id='stacks_in_2816999' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816999">
+<div id="fsr_leftcol_stacks_in_2816999"><div class="leftcolpad_stacks_in_2816999"><div id='stacks_out_2817000' class='stacks_out'><div id='stacks_in_2817000' class='stacks_in com_joeworkman_stacks_link_stack'><a href="Feed-Your-Imagination/" title="Feed Your Imagination"> <div id='stacks_out_2817001' class='stacks_out'><div id='stacks_in_2817001' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2817001_image"><img src='https://songlibrary.net/resources/song-images/feed-your-imagination-72c.png' alt=''></div>
+
+</div></div> </a> 
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816999"><div class="rightcolpad_stacks_in_2816999"><div id='stacks_out_2817004' class='stacks_out'><div id='stacks_in_2817004' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2817004">
+<div id="fsr_leftcol_stacks_in_2817004"><div class="leftcolpad_stacks_in_2817004"><div id='stacks_out_2817005' class='stacks_out'><div id='stacks_in_2817005' class='stacks_in text_stack'><span style="font-size:17px; ">5. </span><span style="font-size:17px; "><a href="Feed-Your-Imagination/" title="Feed Your Imagination">Feed Your Imagination</a></span></div></div><div id='stacks_out_2817007' class='stacks_out'><div id='stacks_in_2817007' class='stacks_in text_stack'>A fun, slightly quirky song about how stories feed our imaginations until they grow and grow and&hellip; A song about books, reading and writers. For Book Week. <span style="font-size:14px; "> </span><span style="font-size:14px; color:#333333;"><a href="Feed-Your-Imagination/" target="self" title="Feed Your Imagination">more&hellip; </a></span><span style="font-size:14px; color:#333333;"> </span><span style="font-size:16px; color:#333333;">         </span><span style="font-size:14px; color:#333333;">         </span></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2817004"><div class="rightcolpad_stacks_in_2817004"><div id='stacks_out_2817010' class='stacks_out'><div id='stacks_in_2817010' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2817011' class='stacks_out'><div id='stacks_in_2817011' class='stacks_in com_stacks4stacks_stacks_audioplayer_stack'><div id="audioPlayerContainerstacks_in_2817011" class="audioPlayerContainer audioPlayerPaused">
+	
+	<audio id="audioPlayerstacks_in_2817011" class="audioPlayer"  preload="metadata" >
+		<source src="https://songlibrary.net/resources/Feed-Your-Imagination/Feed-Your-Imagination-sample.mp3" type="audio/mpeg" class="audio-mp3" />
+		
+		
+	</audio>
+	
+	<div id="audioPlayerControlsstacks_in_2817011" class="audioPlayerControls">
+		<div id="audioPlayerControlsWrapperstacks_in_2817011" class="audioPlayerControlsWrapper">
+			<button type="button" id="audioPlayerPlayPausestacks_in_2817011" class="audioPlayerPlayPause"><i class="fa fa-play"></i></button>
+			<div class="audioPlayerAudioTimingstacks_in_2817011 audioPlayerAudioTiming">
+				<span id="audioPlayerCurrentTimestacks_in_2817011" class="audioPlayerCurrentTime">00:00</span>
+			</div>
+			<div id="audioPlayerTimeDividerstacks_in_2817011" class="audioPlayerAudioTiming">
+				/
+			</div>
+			<div id="progressBarstacks_in_2817011" class="progressBar">
+				<input type="range" id="audioPlayerSeekBarstacks_in_2817011" value="0" class="audioPlayerSeekBar">
+			</div>
+			<div class="audioPlayerAudioTimingstacks_in_2817011 audioPlayerAudioTiming">
+				<span id="audioPlayerDurationstacks_in_2817011" class="audioPlayerDuration">00:00</span>
+			</div>
+			<div id="volumestacks_in_2817011" class="audioPlayerVolume">
+				<i id="volumeButtonstacks_in_2817011" class="volumeButton fa fa-volume-down"></i>
+				<i id="volumeMinstacks_in_2817011" class="volumeMin fa fa-volume-off"></i>
+				<i id="volumeMaxstacks_in_2817011" class="volumeMin volumeMax fa fa-volume-up"></i>
+				<input type="range" id="volume-barstacks_in_2817011" class="volume-bar" min="0" max="1" step="0.1" value="1.00">
+			</div>
+		</div>
+	</div>
+</div>
+</div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div><div id='stacks_out_2816457' class='stacks_out'><div id='stacks_in_2816457' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816457">
+<div id="fsr_leftcol_stacks_in_2816457"><div class="leftcolpad_stacks_in_2816457"><div id='stacks_out_2816458' class='stacks_out'><div id='stacks_in_2816458' class='stacks_in com_joeworkman_stacks_link_stack'><a href="We-Are-Home-Here/" title="We Are Home Here"> <div id='stacks_out_2816459' class='stacks_out'><div id='stacks_in_2816459' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816459_image"><img src='https://songlibrary.net/resources/song-images/We-Are-Home-Here-72.jpg' alt=''></div>
+
+</div></div> </a> 
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816457"><div class="rightcolpad_stacks_in_2816457"><div id='stacks_out_2816462' class='stacks_out'><div id='stacks_in_2816462' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816462">
+<div id="fsr_leftcol_stacks_in_2816462"><div class="leftcolpad_stacks_in_2816462"><div id='stacks_out_2816463' class='stacks_out'><div id='stacks_in_2816463' class='stacks_in text_stack'><span style="font-size:17px; ">6. </span><span style="font-size:17px; "><a href="We-Are-Home-Here/" title="We Are Home Here">We Are Home Here</a></span></div></div><div id='stacks_out_2816465' class='stacks_out'><div id='stacks_in_2816465' class='stacks_in text_stack'>Many pathways led us to this place&hellip;many cultures, one future to embrace. We all need a place to call home.&nbsp<span style="font-size:14px; color:#333333;"><a href="We-Are-Home-Here/" target="self" title="We Are Home Here">more&hellip; </a></span><span style="font-size:16px; color:#333333;">          </span><span style="font-size:14px; color:#333333;">         </span></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816462"><div class="rightcolpad_stacks_in_2816462"><div id='stacks_out_2816470' class='stacks_out'><div id='stacks_in_2816470' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816471' class='stacks_out'><div id='stacks_in_2816471' class='stacks_in com_stacks4stacks_stacks_audioplayer_stack'><div id="audioPlayerContainerstacks_in_2816471" class="audioPlayerContainer audioPlayerPaused">
+	
+	<audio id="audioPlayerstacks_in_2816471" class="audioPlayer"  preload="metadata" >
+		<source src="https://songlibrary.net/resources/We-Are-Home-Here/We_Are_Home_Here_sample.mp3" type="audio/mpeg" class="audio-mp3" />
+		
+		
+	</audio>
+	
+	<div id="audioPlayerControlsstacks_in_2816471" class="audioPlayerControls">
+		<div id="audioPlayerControlsWrapperstacks_in_2816471" class="audioPlayerControlsWrapper">
+			<button type="button" id="audioPlayerPlayPausestacks_in_2816471" class="audioPlayerPlayPause"><i class="fa fa-play"></i></button>
+			<div class="audioPlayerAudioTimingstacks_in_2816471 audioPlayerAudioTiming">
+				<span id="audioPlayerCurrentTimestacks_in_2816471" class="audioPlayerCurrentTime">00:00</span>
+			</div>
+			<div id="audioPlayerTimeDividerstacks_in_2816471" class="audioPlayerAudioTiming">
+				/
+			</div>
+			<div id="progressBarstacks_in_2816471" class="progressBar">
+				<input type="range" id="audioPlayerSeekBarstacks_in_2816471" value="0" class="audioPlayerSeekBar">
+			</div>
+			<div class="audioPlayerAudioTimingstacks_in_2816471 audioPlayerAudioTiming">
+				<span id="audioPlayerDurationstacks_in_2816471" class="audioPlayerDuration">00:00</span>
+			</div>
+			<div id="volumestacks_in_2816471" class="audioPlayerVolume">
+				<i id="volumeButtonstacks_in_2816471" class="volumeButton fa fa-volume-down"></i>
+				<i id="volumeMinstacks_in_2816471" class="volumeMin fa fa-volume-off"></i>
+				<i id="volumeMaxstacks_in_2816471" class="volumeMin volumeMax fa fa-volume-up"></i>
+				<input type="range" id="volume-barstacks_in_2816471" class="volume-bar" min="0" max="1" step="0.1" value="1.00">
+			</div>
+		</div>
+	</div>
+</div>
+</div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div><div id='stacks_out_2817196' class='stacks_out'><div id='stacks_in_2817196' class='stacks_in uk_co_doobox_notify_stack'><!-- Start Notify stack template --><div class="stacks_in_2817196hidden-notification">	<div class="stacks_in_2817196hidden-image">
+<div class='centered_image' >
+    <img class='imageStyle' src='index_files/stacks-image-f169156-96x96.jpg' alt='Stacks Image 2817199'  srcset='index_files/stacks-image-f169156-96x96.jpg 1x, index_files/stacks-image-f169156-96x96@2x.jpg 2x' />
+</div>
+
+</div>	<div class="stacks_in_2817196hidden-title">SPECIAL OFFER</div>	<div class="stacks_in_2817196hidden-body">Download EVERY Song Pack! </div>	<div class="stacks_in_2817196clear"></div></div><!-- End Notify stack template --></div></div><div id='stacks_out_2817221' class='stacks_out'><div id='stacks_in_2817221' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2817221">
+<div id="fsr_leftcol_stacks_in_2817221"><div class="leftcolpad_stacks_in_2817221"><div id='stacks_out_2817222' class='stacks_out'><div id='stacks_in_2817222' class='stacks_in com_joeworkman_stacks_link_stack'><a href="In-The-Silence/" title="In The Silence"> <div id='stacks_out_2817223' class='stacks_out'><div id='stacks_in_2817223' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2817223_image"><img src='https://songlibrary.net/resources/song-images/in-the-silence-72.jpg' alt=''></div>
+
+</div></div> </a> 
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2817221"><div class="rightcolpad_stacks_in_2817221"><div id='stacks_out_2817226' class='stacks_out'><div id='stacks_in_2817226' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2817226">
+<div id="fsr_leftcol_stacks_in_2817226"><div class="leftcolpad_stacks_in_2817226"><div id='stacks_out_2817227' class='stacks_out'><div id='stacks_in_2817227' class='stacks_in text_stack'><span style="font-size:18px; ">7. </span><span style="font-size:18px; "><a href="In-The-Silence/" title="In The Silence">In The Silence</a></span></div></div><div id='stacks_out_2817230' class='stacks_out'><div id='stacks_in_2817230' class='stacks_in text_stack'>A reflection on war and its lasting effects. For Anzac Day, Veteran's Day and Remembrance Day <span style="font-size:16px; color:#333333;"><a href="In-The-Silence/" title="In The Silence">more&hellip;</a></span></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2817226"><div class="rightcolpad_stacks_in_2817226"><div class='slice empty out'><div class='slice empty in'></div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div><div id='stacks_out_2816874' class='stacks_out'><div id='stacks_in_2816874' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816874">
+<div id="fsr_leftcol_stacks_in_2816874"><div class="leftcolpad_stacks_in_2816874"><div id='stacks_out_2816875' class='stacks_out'><div id='stacks_in_2816875' class='stacks_in com_joeworkman_stacks_link_stack'><a href="A-Book-Will-Take-You-There/" title="A Book Will Take You There"> <div id='stacks_out_2816876' class='stacks_out'><div id='stacks_in_2816876' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816876_image"><img src='https://songlibrary.net/resources/song-images/A-Book-Will-Take-You-There-72.jpg' alt=''></div>
+
+</div></div> </a> 
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816874"><div class="rightcolpad_stacks_in_2816874"><div id='stacks_out_2816879' class='stacks_out'><div id='stacks_in_2816879' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816879">
+<div id="fsr_leftcol_stacks_in_2816879"><div class="leftcolpad_stacks_in_2816879"><div id='stacks_out_2816880' class='stacks_out'><div id='stacks_in_2816880' class='stacks_in text_stack'><span style="font-size:17px; ">8. </span><span style="font-size:17px; "><a href="A-Book-Will-Take-You-There/" title="A Book Will Take You There">A Book Will Take You There</a></span></div></div><div id='stacks_out_2816882' class='stacks_out'><div id='stacks_in_2816882' class='stacks_in text_stack'>Books can transport us to all kinds of worlds&hellip;both real and imagined. This song captures that magic. For Book Week. <span style="font-size:14px; "> </span><span style="font-size:14px; color:#333333;"><a href="A-Book-Will-Take-You-There/" target="self" title="A Book Will Take You There">more&hellip; </a></span><span style="font-size:14px; color:#333333;"> </span><span style="font-size:16px; color:#333333;">         </span><span style="font-size:14px; color:#333333;">         </span></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816879"><div class="rightcolpad_stacks_in_2816879"><div id='stacks_out_2816903' class='stacks_out'><div id='stacks_in_2816903' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816904' class='stacks_out'><div id='stacks_in_2816904' class='stacks_in com_stacks4stacks_stacks_audioplayer_stack'><div id="audioPlayerContainerstacks_in_2816904" class="audioPlayerContainer audioPlayerPaused">
+	
+	<audio id="audioPlayerstacks_in_2816904" class="audioPlayer"  preload="metadata" >
+		<source src="https://songlibrary.net/resources/A-Book-Will-Take-You-There/A-Book-Will-Take-You-There-sample.mp3" type="audio/mpeg" class="audio-mp3" />
+		
+		
+	</audio>
+	
+	<div id="audioPlayerControlsstacks_in_2816904" class="audioPlayerControls">
+		<div id="audioPlayerControlsWrapperstacks_in_2816904" class="audioPlayerControlsWrapper">
+			<button type="button" id="audioPlayerPlayPausestacks_in_2816904" class="audioPlayerPlayPause"><i class="fa fa-play"></i></button>
+			<div class="audioPlayerAudioTimingstacks_in_2816904 audioPlayerAudioTiming">
+				<span id="audioPlayerCurrentTimestacks_in_2816904" class="audioPlayerCurrentTime">00:00</span>
+			</div>
+			<div id="audioPlayerTimeDividerstacks_in_2816904" class="audioPlayerAudioTiming">
+				/
+			</div>
+			<div id="progressBarstacks_in_2816904" class="progressBar">
+				<input type="range" id="audioPlayerSeekBarstacks_in_2816904" value="0" class="audioPlayerSeekBar">
+			</div>
+			<div class="audioPlayerAudioTimingstacks_in_2816904 audioPlayerAudioTiming">
+				<span id="audioPlayerDurationstacks_in_2816904" class="audioPlayerDuration">00:00</span>
+			</div>
+			<div id="volumestacks_in_2816904" class="audioPlayerVolume">
+				<i id="volumeButtonstacks_in_2816904" class="volumeButton fa fa-volume-down"></i>
+				<i id="volumeMinstacks_in_2816904" class="volumeMin fa fa-volume-off"></i>
+				<i id="volumeMaxstacks_in_2816904" class="volumeMin volumeMax fa fa-volume-up"></i>
+				<input type="range" id="volume-barstacks_in_2816904" class="volume-bar" min="0" max="1" step="0.1" value="1.00">
+			</div>
+		</div>
+	</div>
+</div>
+</div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div><div id='stacks_out_2816473' class='stacks_out'><div id='stacks_in_2816473' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816473">
+<div id="fsr_leftcol_stacks_in_2816473"><div class="leftcolpad_stacks_in_2816473"><div id='stacks_out_2816474' class='stacks_out'><div id='stacks_in_2816474' class='stacks_in com_joeworkman_stacks_link_stack'><a href="Respect/" title="Respect"> <div id='stacks_out_2816475' class='stacks_out'><div id='stacks_in_2816475' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816475_image"><img src='https://songlibrary.net/resources/song-images/respect-72.jpg' alt=''></div>
+
+</div></div> </a> 
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816473"><div class="rightcolpad_stacks_in_2816473"><div id='stacks_out_2816478' class='stacks_out'><div id='stacks_in_2816478' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816478">
+<div id="fsr_leftcol_stacks_in_2816478"><div class="leftcolpad_stacks_in_2816478"><div id='stacks_out_2816479' class='stacks_out'><div id='stacks_in_2816479' class='stacks_in text_stack'><span style="font-size:17px; ">9. </span><span style="font-size:17px; "><a href="Respect/" title="Respect">Respect</a></span></div></div><div id='stacks_out_2816481' class='stacks_out'><div id='stacks_in_2816481' class='stacks_in text_stack'>Respect and tolerance build a bridge between us no matter how different we are. A modern hip-hop/ soul song with rap.&nbsp<span style="font-size:14px; color:#333333;"><a href="Respect/" target="self" title="Respect">more&hellip; </a></span><span style="font-size:14px; color:#333333;"> </span><span style="font-size:16px; color:#333333;">         </span><span style="font-size:14px; color:#333333;">         </span></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816478"><div class="rightcolpad_stacks_in_2816478"><div id='stacks_out_2816499' class='stacks_out'><div id='stacks_in_2816499' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816500' class='stacks_out'><div id='stacks_in_2816500' class='stacks_in com_stacks4stacks_stacks_audioplayer_stack'><div id="audioPlayerContainerstacks_in_2816500" class="audioPlayerContainer audioPlayerPaused">
+	
+	<audio id="audioPlayerstacks_in_2816500" class="audioPlayer"  preload="metadata" >
+		<source src="https://songlibrary.net/resources/Respect/Respect_sample.mp3" type="audio/mpeg" class="audio-mp3" />
+		
+		
+	</audio>
+	
+	<div id="audioPlayerControlsstacks_in_2816500" class="audioPlayerControls">
+		<div id="audioPlayerControlsWrapperstacks_in_2816500" class="audioPlayerControlsWrapper">
+			<button type="button" id="audioPlayerPlayPausestacks_in_2816500" class="audioPlayerPlayPause"><i class="fa fa-play"></i></button>
+			<div class="audioPlayerAudioTimingstacks_in_2816500 audioPlayerAudioTiming">
+				<span id="audioPlayerCurrentTimestacks_in_2816500" class="audioPlayerCurrentTime">00:00</span>
+			</div>
+			<div id="audioPlayerTimeDividerstacks_in_2816500" class="audioPlayerAudioTiming">
+				/
+			</div>
+			<div id="progressBarstacks_in_2816500" class="progressBar">
+				<input type="range" id="audioPlayerSeekBarstacks_in_2816500" value="0" class="audioPlayerSeekBar">
+			</div>
+			<div class="audioPlayerAudioTimingstacks_in_2816500 audioPlayerAudioTiming">
+				<span id="audioPlayerDurationstacks_in_2816500" class="audioPlayerDuration">00:00</span>
+			</div>
+			<div id="volumestacks_in_2816500" class="audioPlayerVolume">
+				<i id="volumeButtonstacks_in_2816500" class="volumeButton fa fa-volume-down"></i>
+				<i id="volumeMinstacks_in_2816500" class="volumeMin fa fa-volume-off"></i>
+				<i id="volumeMaxstacks_in_2816500" class="volumeMin volumeMax fa fa-volume-up"></i>
+				<input type="range" id="volume-barstacks_in_2816500" class="volume-bar" min="0" max="1" step="0.1" value="1.00">
+			</div>
+		</div>
+	</div>
+</div>
+</div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div><div id='stacks_out_2814830' class='stacks_out'><div id='stacks_in_2814830' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2814830">
+<div id="fsr_leftcol_stacks_in_2814830"><div class="leftcolpad_stacks_in_2814830"><div id='stacks_out_2814831' class='stacks_out'><div id='stacks_in_2814831' class='stacks_in com_joeworkman_stacks_link_stack'><a href="A-Musical-Journey/" title="A Musical Journey"> <div id='stacks_out_2814832' class='stacks_out'><div id='stacks_in_2814832' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2814832_image"><img src='https://songlibrary.net/resources/song-images/a-musical-journey-72.jpg' alt=''></div>
+
+</div></div> </a> 
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2814830"><div class="rightcolpad_stacks_in_2814830"><div id='stacks_out_2814835' class='stacks_out'><div id='stacks_in_2814835' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2814835">
+<div id="fsr_leftcol_stacks_in_2814835"><div class="leftcolpad_stacks_in_2814835"><div id='stacks_out_2814836' class='stacks_out'><div id='stacks_in_2814836' class='stacks_in text_stack'><span style="font-size:17px; ">10. </span><span style="font-size:17px; "><a href="A-Musical-Journey/" title="A Musical Journey">A Musical Journey</a></span></div></div><div id='stacks_out_2814838' class='stacks_out'><div id='stacks_in_2814838' class='stacks_in text_stack'>Discover music from around the world. Imitate an Australian didgeridoo, Indian tabla, Brazilian cuica, Irish tin whistle and more - also African body percussion and chanting. Children can accompany the voices with various percussion instruments.  <span style="font-size:14px; color:#333333;"><a href="A-Musical-Journey/" target="self" title="A Musical Journey">more&hellip;</a></span><span style="font-size:14px; color:#333333;">   </span><span style="font-size:16px; color:#333333;">        </span><span style="font-size:14px; color:#333333;">         </span></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2814835"><div class="rightcolpad_stacks_in_2814835"><div id='stacks_out_2816426' class='stacks_out'><div id='stacks_in_2816426' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816427' class='stacks_out'><div id='stacks_in_2816427' class='stacks_in com_stacks4stacks_stacks_audioplayer_stack'><div id="audioPlayerContainerstacks_in_2816427" class="audioPlayerContainer audioPlayerPaused">
+	
+	<audio id="audioPlayerstacks_in_2816427" class="audioPlayer"  preload="metadata" >
+		<source src="https://songlibrary.net/resources/A-Musical-Journey/A_Musical_Journey_preview.mp3" type="audio/mpeg" class="audio-mp3" />
+		
+		
+	</audio>
+	
+	<div id="audioPlayerControlsstacks_in_2816427" class="audioPlayerControls">
+		<div id="audioPlayerControlsWrapperstacks_in_2816427" class="audioPlayerControlsWrapper">
+			<button type="button" id="audioPlayerPlayPausestacks_in_2816427" class="audioPlayerPlayPause"><i class="fa fa-play"></i></button>
+			<div class="audioPlayerAudioTimingstacks_in_2816427 audioPlayerAudioTiming">
+				<span id="audioPlayerCurrentTimestacks_in_2816427" class="audioPlayerCurrentTime">00:00</span>
+			</div>
+			<div id="audioPlayerTimeDividerstacks_in_2816427" class="audioPlayerAudioTiming">
+				/
+			</div>
+			<div id="progressBarstacks_in_2816427" class="progressBar">
+				<input type="range" id="audioPlayerSeekBarstacks_in_2816427" value="0" class="audioPlayerSeekBar">
+			</div>
+			<div class="audioPlayerAudioTimingstacks_in_2816427 audioPlayerAudioTiming">
+				<span id="audioPlayerDurationstacks_in_2816427" class="audioPlayerDuration">00:00</span>
+			</div>
+			<div id="volumestacks_in_2816427" class="audioPlayerVolume">
+				<i id="volumeButtonstacks_in_2816427" class="volumeButton fa fa-volume-down"></i>
+				<i id="volumeMinstacks_in_2816427" class="volumeMin fa fa-volume-off"></i>
+				<i id="volumeMaxstacks_in_2816427" class="volumeMin volumeMax fa fa-volume-up"></i>
+				<input type="range" id="volume-barstacks_in_2816427" class="volume-bar" min="0" max="1" step="0.1" value="1.00">
+			</div>
+		</div>
+	</div>
+</div>
+</div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div></div><div id='stacks_out_2816998' class='stacks_out stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816998' class='stacks_in '><div id='stacks_out_2816998_1' class='stacks_out'><div id='stacks_in_2816998_1' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816998_1">
+<div id="fsr_leftcol_stacks_in_2816998_1"><div class="leftcolpad_stacks_in_2816998_1"><div id='stacks_out_2816998_2' class='stacks_out'><div id='stacks_in_2816998_2' class='stacks_in text_stack'><strong>SAVE! </strong><br />Get 10 of our most popular songs at a SPECIAL PRICE.<br /><br /><span style="color:#000000;font-weight:bold; ">Earth Day/World Environment Day</span><span style="color:#000000;"><br />&bull; </span><span style="color:#000000;"><a href="I-Am-The-Earth/" title="I Am The Earth">I Am The Earth</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;font-weight:bold; ">Harmony Day</span><span style="color:#000000;"><br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="Everyone-Belongs/" title="Everyone Belongs">Everyone Belongs</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;font-weight:bold; ">Christmas</span><span style="color:#000000;"><br />&bull; </span><span style="color:#000000;"><a href="Christmas-All-Over-The-World/" title="Christmas All Over The World">Christmas All Over The World</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;font-weight:bold; ">Family celebrations</span><span style="color:#000000;"><br />&bull; </span><span style="color:#000000;"><a href="This-Time-Of-Year/" title="This Time Of Year">This Time Of Year</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;font-weight:bold; ">Anzac Day, Remembrance Day, Veteran&rsquo;s Day</span><span style="color:#000000;"><br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="In-The-Silence/" title="In The Silence">In The Silence</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;font-weight:bold; ">Graduation</span><span style="color:#000000;"><br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="Gonna-Shine-Our-Light/" title="Gonna Shine Our Light">Gonna Shine Our Light</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;font-weight:bold; ">Seasons and planets (2 rounds)</span><span style="color:#000000;"><br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="Round-and-Round/" title="Round and Round">Round and Round</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;font-weight:bold; ">Peace Day </span><span style="color:#000000;"><br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="Peace-By-Piece/" title="Peace By Piece">Peace By Piece</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;font-weight:bold; ">Universal Children&rsquo;s Day</span><span style="color:#000000;"><br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="To-Be-Free/" title="To Be Free">To Be Free</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;font-weight:bold; ">Book Week</span><span style="color:#000000;"><br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="Feed-Your-Imagination/" title="Feed Your Imagination">Feed Your Imagination</a></span><br /></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816998_1"><div class="rightcolpad_stacks_in_2816998_1"><div id='stacks_out_2816998_5' class='stacks_out'><div id='stacks_in_2816998_5' class='stacks_in stack_stack'><div id='stacks_out_2816998_6' class='stacks_out'><div id='stacks_in_2816998_6' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816998_6_image"><img src='https://songlibrary.net/resources/song-images/Special-Days-300.jpg' alt=''></div>
+
+</div></div><div id='stacks_out_2816998_66' class='stacks_out'><div id='stacks_in_2816998_66' class='stacks_in stack_stack'><div id='stacks_out_2816998_61' class='stacks_out'><div id='stacks_in_2816998_61' class='stacks_in stack_stack'><div id='stacks_out_2816998_219' class='stacks_out'><div id='stacks_in_2816998_219' class='stacks_in '><div id='stacks_out_2816998_219_7' class='stacks_out'><div id='stacks_in_2816998_219_7' class='stacks_in stack_stack'><div id='stacks_out_2816998_219_11' class='stacks_out'><div id='stacks_in_2816998_219_11' class='stacks_in com_rwextras_stacks_anchorpoint_stack'>
+
+
+
+
+
+<div id="currency1" class="anchorPoint currency1">&nbsp;</div></div></div><div id='stacks_out_2816998_219_5' class='stacks_out'><div id='stacks_in_2816998_219_5' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816998_219_3' class='stacks_out'><div id='stacks_in_2816998_219_3' class='stacks_in text_stack'><span style="color:#535353;">change currency</span></div></div></div>
+</div></div><div id='stacks_out_2816998_219_10' class='stacks_out'><div id='stacks_in_2816998_219_10' class='stacks_in stack_stack'>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div id="rwml_language_switcher_stacks_in_2816998_219_8" class="rwml_language_switcher">
+		<form id="rwml_switch_language_form_stacks_in_2816998_219_8" name="rwml_switch_language_form_stacks_in_2816998_219_8">
+		<div class="form-group">
+
+		<select id="rwml_switch_dropdown_stacks_in_2816998_219_8" class="rwml_switch_dropdown">
+
+			<option selected disabled hidden>
+			Australian Dollars&nbsp;																														</option>
+
+			
+				<option value="/?lang=aud">Australian Dollars</option>
+			
+			
+				<option value="/?lang=cad">Canadian Dollars</option>
+			
+			
+				<option value="/?lang=eur">European Union Euro</option>
+			
+			
+				<option value="/?lang=gbp">Great British Pounds</option>
+			
+			
+				<option value="/?lang=nzd">New Zealand Dollars</option>
+			
+			
+				<option value="/?lang=usd">US Dollar</option>
+			
+			
+			
+			
+			
+		</select>
+		</div>
+		</form>
+	</div>
+	
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div></div></div></div>
+
+
+	<div id="rwml_content_stacks_in_2816998_67" class="rwml-sys">
+		<div lang="aud" dir="ltr">
+
+			
+				<div id='stacks_out_2816998_68' class='stacks_out'><div id='stacks_in_2816998_68' class='stacks_in stack_stack'><div id='stacks_out_2816998_70' class='stacks_out'><div id='stacks_in_2816998_70' class='stacks_in text_stack'><span style="font-size:14px; font-weight:bold; ">Digital Songbook 1</span><span style="font-size:14px; "> </span><span style="font-size:11px; color:#333333;"><a href="" target="self" title="tooltip individual">view usage rights</a></span></div></div><div id='stacks_out_2816998_73' class='stacks_out'><div id='stacks_in_2816998_73' class='stacks_in text_stack'>AUD$49.95 (save $40)</div></div>
+<!-- Vibracart Pro: Button v1.8.0 by Vibralogix -->
+<form class="vcaddtocart">
+<div data-vc-type="addtocart" data-vc-id="Digital_Songbook_1_special_days" data-vc-currency="AUD"></div>
+<input type="submit" class="vcbuybutton" value="VC BUTTON">
+</form>
+<!-- End Vibracart Pro: Button --><div id='stacks_out_2816998_228' class='stacks_out'><div id='stacks_in_2816998_228' class='stacks_in dk_denflinkegrafiker_stacks_linedeluxe_stack'><div class="onthelineouterspace"><div class="ontheline"></div></div></div></div><div id='stacks_out_2816998_78' class='stacks_out'><div id='stacks_in_2816998_78' class='stacks_in text_stack'><span style="font-size:16px; color:#FF6600;font-weight:bold; ">add on&hellip;</span><span style="font-size:16px; color:#333333;font-weight:bold; "><br /></span><span style="font-size:15px; color:#333333;font-weight:bold; ">School Licence</span><span style="font-size:16px; color:#333333;font-weight:bold; "> </span><span style="font-size:11px; color:#333333;"><a href="" target="self" title="tooltip school">what's this?</a></span></div></div><div id='stacks_out_2816998_80' class='stacks_out'><div id='stacks_in_2816998_80' class='stacks_in text_stack'>AUD$95.00 (save $105)</div></div>
+<!-- Vibracart Pro: Button v1.8.0 by Vibralogix -->
+<form class="vcaddtocart">
+<div data-vc-type="addtocart" data-vc-id="School_Site_Licence_Digital_Songbook_1" data-vc-currency="AUD"></div>
+<input type="submit" class="vcbuybutton" value="VC BUTTON">
+</form>
+<!-- End Vibracart Pro: Button --></div></div>
+			
+
+		</div><!--/lang-->
+	</div><!--/rwml_content_stacks_in_2816998_67-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div><div id='stacks_out_2816998_32' class='stacks_out'><div id='stacks_in_2816998_32' class='stacks_in com_rwextras_supertooltips_stack'>
+<div class="ttgroupstacks_in_2816998_32"><div id='stacks_out_2816998_33' class='stacks_out'><div id='stacks_in_2816998_33' class='stacks_in com_rwextras_supertooltipscontent_stack'>
+<div id="individual" style="display:none;">
+
+<div id='stacks_out_2816998_34' class='stacks_out'><div id='stacks_in_2816998_34' class='stacks_in text_stack'>You may place the contents of the download on your personal computer/mp3 player and print <strong>one</strong> copy of the piano/vocal score. See <strong>school licence</strong> for additional rights.</div></div></div></div></div><div id='stacks_out_2816998_37' class='stacks_out'><div id='stacks_in_2816998_37' class='stacks_in com_rwextras_supertooltipscontent_stack'>
+<div id="school" style="display:none;">
+
+<div id='stacks_out_2816998_38' class='stacks_out'><div id='stacks_in_2816998_38' class='stacks_in text_stack'>A school licence permits a <em>single </em>school to place the contents of the song pack on their server (password protected) - and to print 3 copies of the piano/vocal score. Please purchase song pack separately.</div></div></div></div></div></div>
+</div></div></div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div><div id='stacks_out_2816952' class='stacks_out stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816952' class='stacks_in stack_stack'><div id='stacks_out_2816953' class='stacks_out'><div id='stacks_in_2816953' class='stacks_in com_blueballdesign_freestackrmaxwidth_stack'><div id='stacks_out_2816954' class='stacks_out'><div id='stacks_in_2816954' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816955' class='stacks_out'><div id='stacks_in_2816955' class='stacks_in text_stack'><h4>Teachers say&hellip;</h4></div></div><div id='stacks_out_2816957' class='stacks_out'><div id='stacks_in_2816957' class='stacks_in text_stack'><span style="font-size:21px; color:#333333;"><em>Keep up the good work. You're making my job a lot easier!</em></span></div></div><div id='stacks_out_2816959' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816959' class='stacks_in text_stack'><span style="font-size:16px; color:#333333;">Your compositions are age-appropriate, inspiring, singable, and loved by my students.</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="font-size:11px; color:#333333;">Katherine Khandjian, Music specialist MD, USA</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="color:#000000;"><a href="A-Musical-Journey/" title="A Musical Journey">A Musical Journey</a></span><span style="color:#666666;">,</span><span style="color:#000000;"> </span><span style="color:#000000;"><a href="Tell-Me-Your-Story/" title="Tell Me Your Story">Tell Me Your Story</a></span></div></div><div id='stacks_out_2816961' class='stacks_out'><div id='stacks_in_2816961' class='stacks_in text_stack'><span style="font-size:16px; color:#333333;">The children love the combination of your rap song style. Thank you from a grateful music teacher.</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="font-size:11px; color:#333333;">Lynne Stewart, Toronto, Canada</span><span style="font-size:13px; color:#333333;"><br /></span><span style="font-size:14px; color:#000000;"><a href="Everyone-Belongs/" title="Everyone Belongs">Everyone Belongs</a></span></div></div><div id='stacks_out_2816963' class='stacks_out'><div id='stacks_in_2816963' class='stacks_in text_stack'><span style="font-size:16px; color:#333333;">My choir just love this song and so do I! I can hardly stop from shedding a tear at my enthusiastic singers</span><span style="font-size:15px; color:#333333;">.</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="font-size:11px; color:#333333;">Jan, New Zealand</span><span style="font-size:13px; color:#333333;"><br /></span><span style="font-size:13px; color:#000000;"><a href="I-Am-The-Earth/" title="I Am The Earth">I Am The Earth</a></span></div></div><div id='stacks_out_2816965' class='stacks_out'><div id='stacks_in_2816965' class='stacks_in text_stack'><span style="font-size:16px; color:#333333;">This song is a real audience pleaser. A fabulous way to develop part singing. What an outstanding song.</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="font-size:11px; color:#333333;">Carolyn Hernandez, Overton Community College, Australia. </span><span style="font-size:14px; color:#333333;"><br /></span><span style="font-size:14px; color:#000000;"><a href="Ride-Of-Our-Lives/" title="Ride Of Our Lives">Ride Of Our Lives</a></span></div></div><div id='stacks_out_2816967' class='stacks_out'><div id='stacks_in_2816967' class='stacks_in text_stack'><span style="font-size:16px; color:#333333;">&hellip;we sang your fantastic song and we won! The adjudicator thought it was a super choice for the class.</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="font-size:11px; color:#333333;">Fiona Krober, Birmingham, UK </span><span style="font-size:14px; color:#666666;"><br /></span><span style="font-size:14px; color:#000000;"><a href="Feed-Your-Imagination/" title="Feed Your Imagination">Feed Your Imagination</a></span></div></div><div id='stacks_out_2816969' class='stacks_out'><div id='stacks_in_2816969' class='stacks_in text_stack'><span style="font-size:16px; color:#333333;">I believe your songs have a very high educative value and the arrangements are "easy" but very effective.</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="font-size:11px; color:#333333;">Paolo Fabris, Director Centre for Youth and Community Music - Charles Darwin University, Australia</span></div></div>
+</div></div>
+</div></div></div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div><div id='stacks_out_2816527' class='stacks_out'><div id='stacks_in_2816527' class='stacks_in '><div id='stacks_out_2816527_1' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816527_1' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816527_1">
+<div id="fsr_leftcol_stacks_in_2816527_1"><div class="leftcolpad_stacks_in_2816527_1"><div id='stacks_out_2816527_2' class='stacks_out'><div id='stacks_in_2816527_2' class='stacks_in com_blueballdesign_freestackrhideshow_stack'>
+<div id="stacks_in_2816527_2desktopcontent"><div class='slice empty out'><div class='slice empty in'></div></div></div>
+
+<div id="stacks_in_2816527_2mobilecontent"><div id='stacks_out_2816527_3' class='stacks_out'><div id='stacks_in_2816527_3' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816527_258' class='stacks_out'><div id='stacks_in_2816527_258' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816527_259' class='stacks_out'><div id='stacks_in_2816527_259' class='stacks_in com_joeworkman_stacks_fit-text_stack'><div id='stacks_out_2816527_260' class='stacks_out'><div id='stacks_in_2816527_260' class='stacks_in text_stack'><span style="color:#000000;font-weight:bold; ">SongLibrary</span><span style="color:#000000;"> is a collection of modern, age-appropriate songs for children to sing.<br /></span></div></div><div id='stacks_out_2816527_262' class='stacks_out'><div id='stacks_in_2816527_262' class='stacks_in com_blueballdesign_freestackr2columns_stack'><!-- FreeStack Responsive 2Columns Stack v2.0 by Blueball Design -->
+<div id="fsr_colwrap_stacks_in_2816527_262">
+<div id="fsr_leftcol_stacks_in_2816527_262"><div class="leftcolpad_stacks_in_2816527_262"><div id='stacks_out_2816527_263' class='stacks_out'><div id='stacks_in_2816527_263' class='stacks_in text_stack'><span style="color:#000000;">I aim to provide well-crafted, educational, fun songs with great resources for teachers to</span>&nbsp;<span style="color:#000000;font-weight:bold; ">download instantly.<br /></span></div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816527_262"><div class="rightcolpad_stacks_in_2816527_262"><div id='stacks_out_2816527_266' class='stacks_out'><div id='stacks_in_2816527_266' class='stacks_in Doobox_stack'><!-- Start True Retina stack template -->
+<div class='centered_image' >
+    <img class='imageStyle' src='index_files/stacks-image-58b0b99-64x88.jpg' alt='Stacks Image 267'  srcset='index_files/stacks-image-58b0b99-64x88.jpg 1x, index_files/stacks-image-58b0b99-64x88@2x.jpg 2x' />
+</div>
+
+<!-- End True Retina stack template --></div></div><div id='stacks_out_2816527_268' class='stacks_out'><div id='stacks_in_2816527_268' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816527_269' class='stacks_out'><div id='stacks_in_2816527_269' class='stacks_in text_stack'><p style="text-align:center;"><strong>Glyn Lehmann</strong><br />composer/songwriter</p></div></div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div> 
+</div></div><div id='stacks_out_2816527_274' class='stacks_out'><div id='stacks_in_2816527_274' class='stacks_in horizontal-line_stack'><div class='myLine' style='display:block; height:auto; border-top-style:solid; border-top-color:#BDBDBD; border-top-width:1px; font-size:1%;'></div></div></div><div id='stacks_out_2816527_275' class='stacks_out'><div id='stacks_in_2816527_275' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816527_401' class='stacks_out'><div id='stacks_in_2816527_401' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816527_402' class='stacks_out'><div id='stacks_in_2816527_402' class='stacks_in text_stack'><span style="color:#CC6600;">Subscribe to my newsletter for the latest SongLibrary updates and receive 20% off your first purchase.</span></div></div></div>
+</div></div><div id='stacks_out_2816527_395' class='stacks_out'><div id='stacks_in_2816527_395' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816527_396' class='stacks_out'><div id='stacks_in_2816527_396' class='stacks_in html_stack'><link rel="stylesheet" href="https://emailoctopus.com/bundles/emailoctopuslist/css/formEmbed.css">
+
+<div class="email-octopus-form-wrapper">
+    <h2 class="email-octopus-heading"></h2>
+    <p class="email-octopus-success-message"></p>
+    <p class="email-octopus-error-message"></p>
+
+    <form method="post"
+      action="https://emailoctopus.com/lists/7eadd7ac-5f9f-11e8-a3c9-06b79b628af2/members/embedded/1.3/add"
+      class="email-octopus-form"
+      data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6"
+    >
+        
+        <div class="email-octopus-form-row">
+            <label for="field_0">Email address</label>
+            <input id="field_0" name="field_0" type="email" placeholder="">
+        </div>
+
+
+        <div class="email-octopus-form-row-hp" aria-hidden="true">
+            <!-- Do not remove this field, otherwise you risk bot sign-ups -->
+            <input type="text" name="hp7eadd7ac-5f9f-11e8-a3c9-06b79b628af2"
+               tabindex="-1"
+               autocomplete="nope">
+        </div>
+
+        <div class="email-octopus-form-row-subscribe">
+            <input type="hidden"
+               name="successRedirectUrl"
+               value="">
+            <button type="submit">Subscribe</button>
+        </div>
+    </form>
+
+    
+</div>
+
+<script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.5/formEmbed.js"></script></div></div><div id='stacks_out_2816527_398' class='stacks_out'><div id='stacks_in_2816527_398' class='stacks_in text_stack'><span style="font-size:11px; color:#666666;">We will never share your information.</span></div></div></div>
+</div></div></div>
+</div></div><div id='stacks_out_2816527_302' class='stacks_out'><div id='stacks_in_2816527_302' class='stacks_in horizontal-line_stack'><div class='myLine' style='display:block; height:auto; border-top-style:solid; border-top-color:#BDBDBD; border-top-width:1px; font-size:1%;'></div></div></div><div id='stacks_out_2816527_330' class='stacks_out'><div id='stacks_in_2816527_330' class='stacks_in stack_stack'><div id='stacks_out_2816527_333' class='stacks_out stacks_l_hidden stacks_m_hidden'><div id='stacks_in_2816527_333' class='stacks_in text_stack'><p style="text-align:center;"><span style="font-size:19px; "><a href="Christmas-Songs/" title="Christmas Songs">Songs for Christmas and the holidays</a></span></p></div></div><div id='stacks_out_2816527_335' class='stacks_out stacks_l_hidden stacks_m_hidden'><div id='stacks_in_2816527_335' class='stacks_in com_stacks4stacks_stacks_linkbox_stack'><!-- Link box stack by Will Woodgate. Visit http://www/stacks4stacks.com for more information -->
+<div id="linkBoxstacks_in_2816527_335" class="linkBox">
+	<div id="linkBoxLinkstacks_in_2816527_335"><a href="Christmas-Songs/" title="Christmas Songs"></a></div>
+	
+	<div id="linkBoxContentstacks_in_2816527_335"><div id='stacks_out_2816527_336' class='stacks_out'><div id='stacks_in_2816527_336' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816527_336_image"><img src='https://songlibrary.net/resources/song-images/Christmas-Songs-180.jpg' alt=''></div>
+
+</div></div></div>
+</div><!--/linkBox--></div></div><div id='stacks_out_2816527_381' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816527_381' class='stacks_in horizontal-line_stack'><div class='myLine' style='display:block; height:auto; border-top-style:solid; border-top-color:#D6D6D6; border-top-width:1px; font-size:1%;'></div></div></div><div id='stacks_out_2816527_382' class='stacks_out stacks_l_hidden stacks_m_hidden'><div id='stacks_in_2816527_382' class='stacks_in stack_stack'><div id='stacks_out_2816527_383' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816527_383' class='stacks_in text_stack'><p style="text-align:center;"><span style="font-size:20px; color:#FF6600;font-weight:bold; ">NEW<br /></span><span style="font-size:20px; color:#333333;font-weight:bold; ">Earth Day Song</span></p></div></div><div id='stacks_out_2816527_385' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816527_385' class='stacks_in stack_stack'><div id='stacks_out_2816527_386' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816527_386' class='stacks_in text_stack'><p style="text-align:center;"><span style="font-size:19px; "><a href="The-Earth-Turns/" title="The Earth Turns">The Earth Turns</a></span></p></div></div><div id='stacks_out_2816527_388' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816527_388' class='stacks_in com_stacks4stacks_stacks_linkbox_stack'><!-- Link box stack by Will Woodgate. Visit http://www/stacks4stacks.com for more information -->
+<div id="linkBoxstacks_in_2816527_388" class="linkBox">
+	<div id="linkBoxLinkstacks_in_2816527_388"><a href="The-Earth-Turns/" title="The Earth Turns"></a></div>
+	
+	<div id="linkBoxContentstacks_in_2816527_388"><div id='stacks_out_2816527_389' class='stacks_out'><div id='stacks_in_2816527_389' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816527_389_image"><img src='https://songlibrary.net/resources/song-images/The_Earth_Turns_160.jpg' alt=''></div>
+
+</div></div></div>
+</div><!--/linkBox--></div></div><div id='stacks_out_2816527_391' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816527_391' class='stacks_in text_stack'><span style="color:#666666;"><em>Together we walk<br />Together we know <br />That from today<br />Tomorrow will grow</em></span></div></div></div></div></div></div><div id='stacks_out_2816527_331' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816527_331' class='stacks_in text_stack'><p style="text-align:center;"><span style="font-size:20px; color:#FF6600;font-weight:bold; ">NEW</span></p></div></div><div id='stacks_out_2816527_349' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816527_349' class='stacks_in stack_stack'><div id='stacks_out_2816527_350' class='stacks_out stacks_l_hidden stacks_m_hidden'><div id='stacks_in_2816527_350' class='stacks_in text_stack'><p style="text-align:center;"><span style="font-size:19px; "><a href="Giant-Of-The-Forest/" title="Giant Of The Forest">Giant of the Forest</a></span><span style="font-size:19px; "><br /></span><span style="color:#999999;">the world's largest flowering plant and 2nd tallest tree</span></p></div></div><div id='stacks_out_2816527_352' class='stacks_out stacks_l_hidden stacks_m_hidden'><div id='stacks_in_2816527_352' class='stacks_in com_stacks4stacks_stacks_linkbox_stack'><!-- Link box stack by Will Woodgate. Visit http://www/stacks4stacks.com for more information -->
+<div id="linkBoxstacks_in_2816527_352" class="linkBox">
+	<div id="linkBoxLinkstacks_in_2816527_352"><a href="Giant-Of-The-Forest/" title="Giant Of The Forest"></a></div>
+	
+	<div id="linkBoxContentstacks_in_2816527_352"><div id='stacks_out_2816527_353' class='stacks_out'><div id='stacks_in_2816527_353' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816527_353_image"><img src='https://songlibrary.net/resources/song-images/Giant-Of-The-Forest-160.jpg' alt=''></div>
+
+</div></div></div>
+</div><!--/linkBox--></div></div><div id='stacks_out_2816527_356' class='stacks_out'><div id='stacks_in_2816527_356' class='stacks_in text_stack'><span style="color:#666666;">A tribute to Tasmania's 'Centurion Tree' - world's largest flowering plant and second tallest tree.</span></div></div></div></div></div></div></div>
+</div></div><div id='stacks_out_2816527_358' class='stacks_out'><div id='stacks_in_2816527_358' class='stacks_in com_blueballdesign_freestackrhide_stack'><div id="stacks_in_2816527_358desktopcontent"><div id='stacks_out_2816527_359' class='stacks_out stacks_l_hidden'><div id='stacks_in_2816527_359' class='stacks_in stack_stack'><div id='stacks_out_2816527_360' class='stacks_out'><div id='stacks_in_2816527_360' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816527_360_image"><img src='https://songlibrary.net/resources/song-images/Special-Days-300.jpg' alt=''></div>
+
+</div></div><div id='stacks_out_2816527_361' class='stacks_out'><div id='stacks_in_2816527_361' class='stacks_in stack_stack'><div id='stacks_out_2816527_434' class='stacks_out'><div id='stacks_in_2816527_434' class='stacks_in stack_stack'><div id='stacks_out_2816527_435' class='stacks_out'><div id='stacks_in_2816527_435' class='stacks_in stack_stack'><div id='stacks_out_2816527_437' class='stacks_out'><div id='stacks_in_2816527_437' class='stacks_in '><div id='stacks_out_2816527_437_7' class='stacks_out'><div id='stacks_in_2816527_437_7' class='stacks_in stack_stack'><div id='stacks_out_2816527_437_11' class='stacks_out'><div id='stacks_in_2816527_437_11' class='stacks_in com_rwextras_stacks_anchorpoint_stack'>
+
+
+
+
+
+<div id="currency1" class="anchorPoint currency1">&nbsp;</div></div></div><div id='stacks_out_2816527_437_5' class='stacks_out'><div id='stacks_in_2816527_437_5' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816527_437_3' class='stacks_out'><div id='stacks_in_2816527_437_3' class='stacks_in text_stack'><span style="color:#535353;">change currency</span></div></div></div>
+</div></div><div id='stacks_out_2816527_437_10' class='stacks_out'><div id='stacks_in_2816527_437_10' class='stacks_in stack_stack'>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div id="rwml_language_switcher_stacks_in_2816527_437_8" class="rwml_language_switcher">
+		<form id="rwml_switch_language_form_stacks_in_2816527_437_8" name="rwml_switch_language_form_stacks_in_2816527_437_8">
+		<div class="form-group">
+
+		<select id="rwml_switch_dropdown_stacks_in_2816527_437_8" class="rwml_switch_dropdown">
+
+			<option selected disabled hidden>
+			Australian Dollars&nbsp;																														</option>
+
+			
+				<option value="/?lang=aud">Australian Dollars</option>
+			
+			
+				<option value="/?lang=cad">Canadian Dollars</option>
+			
+			
+				<option value="/?lang=eur">European Union Euro</option>
+			
+			
+				<option value="/?lang=gbp">Great British Pounds</option>
+			
+			
+				<option value="/?lang=nzd">New Zealand Dollars</option>
+			
+			
+				<option value="/?lang=usd">US Dollar</option>
+			
+			
+			
+			
+			
+		</select>
+		</div>
+		</form>
+	</div>
+	
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div></div></div></div>
+
+
+	<div id="rwml_content_stacks_in_2816527_439" class="rwml-sys">
+		<div lang="aud" dir="ltr">
+
+			
+				<div id='stacks_out_2816527_440' class='stacks_out'><div id='stacks_in_2816527_440' class='stacks_in stack_stack'><div id='stacks_out_2816527_442' class='stacks_out'><div id='stacks_in_2816527_442' class='stacks_in text_stack'><span style="font-size:14px; font-weight:bold; ">Digital Songbook 1</span><span style="font-size:14px; "> </span><span style="font-size:11px; color:#333333;"><a href="" target="self" title="tooltip individual">view usage rights</a></span></div></div><div id='stacks_out_2816527_445' class='stacks_out'><div id='stacks_in_2816527_445' class='stacks_in text_stack'>AUD$49.95 (save $40)</div></div>
+<!-- Vibracart Pro: Button v1.8.0 by Vibralogix -->
+<form class="vcaddtocart">
+<div data-vc-type="addtocart" data-vc-id="Digital_Songbook_1_special_days" data-vc-currency="AUD"></div>
+<input type="submit" class="vcbuybutton" value="VC BUTTON">
+</form>
+<!-- End Vibracart Pro: Button --><div id='stacks_out_2816527_448' class='stacks_out'><div id='stacks_in_2816527_448' class='stacks_in dk_denflinkegrafiker_stacks_linedeluxe_stack'><div class="onthelineouterspace"><div class="ontheline"></div></div></div></div><div id='stacks_out_2816527_449' class='stacks_out'><div id='stacks_in_2816527_449' class='stacks_in text_stack'><span style="font-size:16px; color:#FF6600;font-weight:bold; ">add on&hellip;</span><span style="font-size:16px; color:#333333;font-weight:bold; "><br /></span><span style="font-size:15px; color:#333333;font-weight:bold; ">School Licence</span><span style="font-size:16px; color:#333333;font-weight:bold; "> </span><span style="font-size:11px; color:#333333;"><a href="" target="self" title="tooltip school">what's this?</a></span></div></div><div id='stacks_out_2816527_451' class='stacks_out'><div id='stacks_in_2816527_451' class='stacks_in text_stack'>AUD$95.00 (save $105)</div></div>
+<!-- Vibracart Pro: Button v1.8.0 by Vibralogix -->
+<form class="vcaddtocart">
+<div data-vc-type="addtocart" data-vc-id="School_Site_Licence_Digital_Songbook_1" data-vc-currency="AUD"></div>
+<input type="submit" class="vcbuybutton" value="VC BUTTON">
+</form>
+<!-- End Vibracart Pro: Button --></div></div>
+			
+
+		</div><!--/lang-->
+	</div><!--/rwml_content_stacks_in_2816527_439-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div>
+
+
+	<div id="rwml_content_stacks_in_2816527_407" class="rwml-sys">
+		<div lang="aud" dir="ltr">
+
+			
+				<div id='stacks_out_2816527_415' class='stacks_out'><div id='stacks_in_2816527_415' class='stacks_in text_stack'><span style="font-size:15px; font-weight:bold; ">$49.95 </span><span style="font-size:15px; ">AUD </span><span style="font-size:10px; "><a href="" title="tooltip individual" style="color: #ffffff">view usage rights</a></span><span style="font-size:10px; "><br /></span><span style="color:#000000;">save $38.60</span></div></div><div id='stacks_out_2816527_418' class='stacks_out'><div id='stacks_in_2816527_418' class='stacks_in html_stack'><a href="https://transactions.sendowl.com/packages/703901/ABB34E1C/add_to_cart" rel="nofollow"><button class="butn1">add to cart</button/></a></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script></div></div><div id='stacks_out_2816527_423' class='stacks_out'><div id='stacks_in_2816527_423' class='stacks_in horizontal-line_stack'><div class='myLine' style='display:block; height:auto; border-top-style:dashed; border-top-color:#666666; border-top-width:1px; font-size:1%;'></div></div></div><div id='stacks_out_2816527_420' class='stacks_out'><div id='stacks_in_2816527_420' class='stacks_in text_stack'><span style="font-size:15px; color:#FFFFFF;font-weight:bold; ">Add on</span><span style="color:#000000;"><br /></span><span style="font-size:16px; color:#000000;font-weight:bold; ">School licence </span><span style="font-size:10px; "><a href="" title="tooltip school" style="color: #ffffff">what's this?</a></span><br /><span style="font-size:15px; font-weight:bold; ">$95.00 </span><span style="font-size:15px; ">AUD<br /></span><span style="font-size:14px; ">save $105</span></div></div><div id='stacks_out_2816527_422' class='stacks_out'><div id='stacks_in_2816527_422' class='stacks_in html_stack'><a href="https://transactions.sendowl.com/products/78042147/833F71D0/add_to_cart" rel="nofollow"><button class="butn1">add to cart</button/></a></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script></div></div>
+			
+
+		</div><!--/lang-->
+	</div><!--/rwml_content_stacks_in_2816527_407-->
+
+
+
+
+
+
+
+
+
+</div></div><div id='stacks_out_2816527_377' class='stacks_out'><div id='stacks_in_2816527_377' class='stacks_in text_stack'><strong>SAVE! </strong><br />Get 10 of our most popular songs at a SPECIAL PRICE.<br /><br /><span style="color:#000000;">Earth Day/World Environment Day<br />&bull; </span><span style="color:#000000;"><a href="I-Am-The-Earth/" title="I Am The Earth">I Am The Earth</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;">Harmony Day<br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="Everyone-Belongs/" title="Everyone Belongs">Everyone Belongs</a></span><span style="color:#000000;"><br />Christmas<br />&bull; </span><span style="color:#000000;"><a href="Christmas-All-Over-The-World/" title="Christmas All Over The World">Christmas All Over The World</a></span><span style="color:#000000;"><br />Family celebrations<br />&bull; </span><span style="color:#000000;"><a href="This-Time-Of-Year/" title="This Time Of Year">This Time Of Year</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;">Anzac Day, Remembrance Day, Veteran&rsquo;s Day<br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="In-The-Silence/" title="In The Silence">In The Silence</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;">Graduation<br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="Gonna-Shine-Our-Light/" title="Gonna Shine Our Light">Gonna Shine Our Light</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;">Seasons and planets (2 rounds)<br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="Round-and-Round/" title="Round and Round">Round and Round</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;">Peace Day <br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="Peace-By-Piece/" title="Peace By Piece">Peace By Piece</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;">Universal Children&rsquo;s Day<br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="To-Be-Free/" title="To Be Free">To Be Free</a></span><span style="color:#000000;"><br /></span><span style="color:#000000;">Book Week<br /></span><span style="color:#000000;">&bull; </span><span style="color:#000000;"><a href="Feed-Your-Imagination/" title="Feed Your Imagination">Feed Your Imagination</a></span><br /></div></div></div></div></div></div></div>
+</div></div></div>
+</div></div></div></div>
+<div id="fsr_rightcol_stacks_in_2816527_1"><div class="rightcolpad_stacks_in_2816527_1"><div id='stacks_out_2816527_57' class='stacks_out'><div id='stacks_in_2816527_57' class='stacks_in com_blueballdesign_freestackrhideshow_stack'>
+<div id="stacks_in_2816527_57desktopcontent"><div class='slice empty out'><div class='slice empty in'></div></div></div>
+
+<div id="stacks_in_2816527_57mobilecontent"><div id='stacks_out_2816527_58' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816527_58' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816527_59' class='stacks_out'><div id='stacks_in_2816527_59' class='stacks_in stack_stack'><div id='stacks_out_2816527_541' class='stacks_out'><div id='stacks_in_2816527_541' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816527_542' class='stacks_out'><div id='stacks_in_2816527_542' class='stacks_in stack_stack'><div id='stacks_out_2816527_544' class='stacks_out'><div id='stacks_in_2816527_544' class='stacks_in com_stacks4stacks_stacks_linkbox_stack'><!-- Link box stack by Will Woodgate. Visit http://www/stacks4stacks.com for more information -->
+<div id="linkBoxstacks_in_2816527_544" class="linkBox">
+	<div id="linkBoxLinkstacks_in_2816527_544"><a href="Simple-Things/" title="Simple Things"></a></div>
+	
+	<div id="linkBoxContentstacks_in_2816527_544"><div id='stacks_out_2816527_545' class='stacks_out'><div id='stacks_in_2816527_545' class='stacks_in com_blueballdesign_freestackrimageurl_stack'><div id="stacks_in_2816527_545_image"><img src='https://songlibrary.net/resources/song-images/simple-things-180.jpg' alt=''></div>
+
+</div></div></div>
+</div><!--/linkBox--></div></div><div id='stacks_out_2816527_547' class='stacks_out'><div id='stacks_in_2816527_547' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816527_548' class='stacks_out'><div id='stacks_in_2816527_548' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816527_549' class='stacks_out'><div id='stacks_in_2816527_549' class='stacks_in text_stack'><span style="color:#666666;"><a href="Simple-Things/" title="Simple Things">Simple Things</a></span><span style="color:#000000;"> is offered as a song of hope and encouragement in this time of the COVID-19 pandemic.</span></div></div>
+</div></div><div id='stacks_out_2816527_552' class='stacks_out'><div id='stacks_in_2816527_552' class='stacks_in com_blueballdesign_freestackcontent_stack'><div id="content"><div id='stacks_out_2816527_553' class='stacks_out'><div id='stacks_in_2816527_553' class='stacks_in com_onelittledesigner_stacks_SimpleButtonsFree_stack'><div id="buttonContainer_stacks_in_2816527_553">
+	<a href="https://songlibrary.net/Simple-Things" class="simpleButton_stacks_in_2816527_553 simpleButton alignCenter textShadowOn buttonShadowOn borderOff transparentOff buttonGradientOff" >
+		<span style="font-size:13px; ">Free download</span>
+	</a>
+</div>
+</div></div></div>
+</div></div><div id='stacks_out_2816527_556' class='stacks_out'><div id='stacks_in_2816527_556' class='stacks_in text_stack'><span style="color:#000000;">Song Pack includes:<br /></span><ul class="disc"><li><span style="color:#000000;font-weight:bold; ">vocal recording</span></li><li><span style="color:#000000;font-weight:bold; ">backing track</span></li><li><span style="color:#000000;font-weight:bold; ">piano/vocal score</span></li><li><span style="color:#000000;font-weight:bold; ">lead sheet</span></li><li><span style="color:#000000;font-weight:bold; ">lyrics & notes</span><span style="color:#000000;"> </span></li></ul></div></div></div>
+</div></div></div></div>
+</div></div></div></div>
+</div></div><div id='stacks_out_2816527_117' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816527_117' class='stacks_in stack_stack'><div id='stacks_out_2816527_118' class='stacks_out'><div id='stacks_in_2816527_118' class='stacks_in com_blueballdesign_freestackrmaxwidth_stack'><div id='stacks_out_2816527_119' class='stacks_out'><div id='stacks_in_2816527_119' class='stacks_in com_blueballdesign_freestackrrepositionalt_stack'><div id='stacks_out_2816527_120' class='stacks_out'><div id='stacks_in_2816527_120' class='stacks_in text_stack'><h4>Teachers say&hellip;</h4></div></div><div id='stacks_out_2816527_122' class='stacks_out'><div id='stacks_in_2816527_122' class='stacks_in text_stack'><span style="font-size:21px; color:#333333;"><em>Keep up the good work. You're making my job a lot easier!</em></span></div></div><div id='stacks_out_2816527_124' class='stacks_out stacks_l_hidden stacks_m_hidden stacks_s_hidden'><div id='stacks_in_2816527_124' class='stacks_in text_stack'><span style="font-size:16px; color:#333333;">Your compositions are age-appropriate, inspiring, singable, and loved by my students.</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="font-size:11px; color:#333333;">Katherine Khandjian, Music specialist MD, USA</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="color:#000000;"><a href="A-Musical-Journey/" title="A Musical Journey">A Musical Journey</a></span><span style="color:#666666;">,</span><span style="color:#000000;"> </span><span style="color:#000000;"><a href="Tell-Me-Your-Story/" title="Tell Me Your Story">Tell Me Your Story</a></span></div></div><div id='stacks_out_2816527_126' class='stacks_out'><div id='stacks_in_2816527_126' class='stacks_in text_stack'><span style="font-size:16px; color:#333333;">The children love the combination of your rap song style. Thank you from a grateful music teacher.</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="font-size:11px; color:#333333;">Lynne Stewart, Toronto, Canada</span><span style="font-size:13px; color:#333333;"><br /></span><span style="font-size:14px; color:#000000;"><a href="Everyone-Belongs/" title="Everyone Belongs">Everyone Belongs</a></span></div></div><div id='stacks_out_2816527_128' class='stacks_out'><div id='stacks_in_2816527_128' class='stacks_in text_stack'><span style="font-size:16px; color:#333333;">My choir just love this song and so do I! I can hardly stop from shedding a tear at my enthusiastic singers</span><span style="font-size:15px; color:#333333;">.</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="font-size:11px; color:#333333;">Jan, New Zealand</span><span style="font-size:13px; color:#333333;"><br /></span><span style="font-size:13px; color:#000000;"><a href="I-Am-The-Earth/" title="I Am The Earth">I Am The Earth</a></span></div></div><div id='stacks_out_2816527_130' class='stacks_out'><div id='stacks_in_2816527_130' class='stacks_in text_stack'><span style="font-size:16px; color:#333333;">This song is a real audience pleaser. A fabulous way to develop part singing. What an outstanding song.</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="font-size:11px; color:#333333;">Carolyn Hernandez, Overton Community College, Australia. </span><span style="font-size:14px; color:#333333;"><br /></span><span style="font-size:14px; color:#000000;"><a href="Ride-Of-Our-Lives/" title="Ride Of Our Lives">Ride Of Our Lives</a></span></div></div><div id='stacks_out_2816527_132' class='stacks_out'><div id='stacks_in_2816527_132' class='stacks_in text_stack'><span style="font-size:16px; color:#333333;">&hellip;we sang your fantastic song and we won! The adjudicator thought it was a super choice for the class.</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="font-size:11px; color:#333333;">Fiona Krober, Birmingham, UK </span><span style="font-size:14px; color:#666666;"><br /></span><span style="font-size:14px; color:#000000;"><a href="Feed-Your-Imagination/" title="Feed Your Imagination">Feed Your Imagination</a></span></div></div><div id='stacks_out_2816527_134' class='stacks_out'><div id='stacks_in_2816527_134' class='stacks_in text_stack'><span style="font-size:16px; color:#333333;">I believe your songs have a very high educative value and the arrangements are "easy" but very effective.</span><span style="font:15px Verdana, sans-serif; color:#333333;"><br /></span><span style="font-size:11px; color:#333333;">Paolo Fabris, Director Centre for Youth and Community Music - Charles Darwin University, Australia</span></div></div>
+</div></div>
+</div></div></div></div></div>
+</div></div></div></div>
+</div>
+<!-- End FreeStack Responsive 2Columns Stack -->
+</div></div></div></div>
+</div></div></div></div><div id='stacks_out_2816722' class='stacks_out'><div id='stacks_in_2816722' class='stacks_in stack_stack'><div id='stacks_out_2816723' class='stacks_out'><div id='stacks_in_2816723' class='stacks_in cssDiv_stack'><!-- cssDiv v2.0.1 Stacks 1 by Ed Brenner -->
+<div class="footer">
+<div id='stacks_out_2816724' class='stacks_out'><div id='stacks_in_2816724' class='stacks_in com_blueballdesign_freestackrmaxwidth_stack'><div id='stacks_out_2816769' class='stacks_out'><div id='stacks_in_2816769' class='stacks_in '><div id='stacks_out_2816769_2518893' class='stacks_out stacks_s_hidden'><div id='stacks_in_2816769_2518893' class='stacks_in stack_stack'><div id='stacks_out_2816769_2518895' class='stacks_out'><div id='stacks_in_2816769_2518895' class='stacks_in com_blueballdesign_freestackrmaxwidth_stack'><div id='stacks_out_2816769_2518897' class='stacks_out'><div id='stacks_in_2816769_2518897' class='stacks_in com_blueballdesign_freestackstyler_stack'><div id='stacks_out_2816769_2518925' class='stacks_out'><div id='stacks_in_2816769_2518925' class='stacks_in com_yourhead_stack_4Columns_stack'><div class='stacks_div stacks_column_left stacks_column_4'><div id='stacks_out_2816769_2518926' class='stacks_out'><div id='stacks_in_2816769_2518926' class='stacks_in text_stack'><span style="font-size:13px; color:#FF6633;font-weight:bold; ">INFO</span></div></div><div id='stacks_out_2816769_2518928' class='stacks_out'><div id='stacks_in_2816769_2518928' class='stacks_in text_stack'><a href="./" target="self" title="Home">Home</a><br /><a href="About/" target="self" title="About">About</a><br /><a href="FAQ/" target="self" title="FAQ">FAQ</a><br /><a href="contact/" target="self" title="Contact">Contact</a><br /><a href="order/" title="Order">School Purchase Order Form</a><br /><a href="privacy-policy/" target="self" title="Privacy Policy">Privacy Policy</a><span style="font-size:11px; "><br /></span></div></div><div id='stacks_out_2816769_2518930' class='stacks_out'><div id='stacks_in_2816769_2518930' class='stacks_in text_stack'><span style="font-size:13px; color:#FF6633;font-weight:bold; ">SONGS</span></div></div><div id='stacks_out_2816769_2518932' class='stacks_out'><div id='stacks_in_2816769_2518932' class='stacks_in text_stack'><a href="A-Book-Will-Take-You-There/" title="A Book Will Take You There">A Book Will Take You There</a><br /><a href="A-Mighty-Long-Way/" target="self" title="A Mighty Long Way">A Mighty Long Way</a><br /><a href="A-Musical-Journey/" target="self" title="A Musical Journey">A Musical Journey</a><br /><a href="All-I-Need-To-Know/" target="self" title="All I Need To Know">All I Need To Know</a><br /><a href="All-Swans-Are-White/" target="self" title="All Swans Are White">All Swans Are White</a><br /><a href="Body-Language/" title="Body Language">Body Language</a><br /><a href="Christmas-All-Over-The-World/" title="Christmas All Over The World">Christmas All Over The World</a><br /><a href="Christmas-Songs/" title="Christmas Songs">Christmas Songs</a><br /><a href="Christmas-Wish/" target="self" title="Christmas Wish">Christmas Wish</a><br /><a href="Christmas-Is-Coming/" title="Christmas Is Coming">Christmas Is Coming</a><br /><a href="Circles/" target="self" title="Circles">Circles</a><br /><a href="Community/" title="Community">Community</a><br /><a href="Creatures-of-the-Night/" target="self" title="Creatures of the Night">Creatures Of The Night</a><br /><a href="Curiosity/" title="Curiosity">Curiosity</a><br /><a href="Deeper-Down/" title="Deeper Down">Deeper Down</a><br /><a href="Every-Voice-That-Sings/" target="self" title="Every Voice That Sings">Every Voice That Sings</a><br /><a href="Everyone-Belongs/" target="self" title="Everyone Belongs">Everyone Belongs</a><br /><a href="Extraordinary-Things/" title="Extraordinary Things">Extraordinary Things</a><br /><a href="Feed-Your-Imagination/" title="Feed Your Imagination">Feed Your Imagination</a><br /><a href="Feelings/" title="Feelings">Feelings</a><br /><a href="Flying-Free/" title="Flying Free">Flying Free</a><br /><a href="Giant-Of-The-Forest/" title="Giant Of The Forest">Giant of the Forest</a><br /><a href="Give-A-Little-Sunshine/" title="Give A Little Sunshine">Give A Little Sunshine</a><br /><a href="Gonna-Shine-Our-Light/" target="self" title="Gonna Shine Our Light">Gonna Shine Our Light</a><br /><a href="Harmony/" target="self" title="Harmony">Harmony</a><br /><a href="Have-A-Go/" target="self" title="Have A Go">Have A Go</a><br /><a href="I-Am-The-Earth/" target="self" title="I Am The Earth">I Am The Earth</a><br /><a href="In-The-Silence/" title="In The Silence">In The Silence</a><br /><a href="Language-Is-The-Key/" target="self" title="Language Is The Key">Language Is The Key</a></div></div></div><div class='stacks_div stacks_column_left stacks_column_4'><div id='stacks_out_2816769_2518935' class='stacks_out'><div id='stacks_in_2816769_2518935' class='stacks_in text_stack'><a href="Life-Without-Sport/" target="self" title="Life Without Sport">Life Without Sport</a><br /><a href="Lifeline/" target="self" title="Lifeline">Lifeline</a><br /><a href="Little-Jesus/" target="self" title="Little Jesus">Little Baby</a><br /><a href="On-Our-Way/" title="On Our Way">On Our Way</a><br /><a href="Creatures-of-the-Night/" target="self" title="Creatures of the Night">Night Song</a><br /><a href="Party-Of-Life/" target="self" title="Party of Life">Party Of Life</a><br /><a href="Peace-By-Piece/" title="Peace By Piece">Peace By Piece</a><br /><a href="Perfect-Wave/" title="Perfect Wave">Perfect Wave</a><br /><a href="Round-and-Round/" target="self" title="Round and Round">Planets Go Round</a><br /><a href="Rainbows-and-Canyons/" target="self" title="Rainbows and Canyons">Rainbows and Canyons</a><br /><a href="Respect/" title="Respect">Respect</a><br /><a href="Ride-Of-Our-Lives/" target="self" title="Ride Of Our Lives">Ride Of Our Lives</a><br /><a href="Round-and-Round/" target="self" title="Round and Round">Round and Round</a><br /><a href="Round-and-Round/" target="self" title="Round and Round">Seasons Go Round</a><br /><a href="Simple-Things/" title="Simple Things">Simple Things</a><br /><a href="Sing-For-You/" title="Sing For You">Sing For You</a><br /><a href="Talk-It-Out/" target="self" title="Talk It Out">Talk It Out</a><br /><a href="Tell-Me-Your-Story/" target="self" title="Tell Me Your Story">Tell Me Your Story</a><br /><a href="The-Apostrophe-Song/" target="self" title="The Apostrophe Song">The Apostrophe Song</a><br /><a href="The-Dance/" title="The Dance">The Dance</a><br /><a href="The-Earth-Turns/" title="The Earth Turns">The Earth Turns</a><br /><a href="The-Gift/" target="self" title="The Gift">The Gift</a><br /><a href="The-Green-Hills-Of-Albany/" target="self" title="The Green Hills Of Albany">The Green Hills Of Albany</a><br /><a href="The-Polliwog/" target="self" title="The Polliwog">The Polliwog</a><br /><a href="The-Refugee-Carol/" title="The Refugee Carol">The Refugee Carol</a><br /><a href="The-River/" title="The River">The River</a><br /><a href="The-Seed/" target="self" title="The Seed">The Seed</a><br /><a href="The-Silent-Call-of-Kati-Thanda/" title="The Silent Call of Kati Thanda">The Silent Call of Kati Thanda</a><br /><a href="There-Is-A-Child/" title="There Is A Child">There Is A Child</a><br /><a href="This-Time-Of-Year/" target="self" title="This Time Of Year">This Time Of Year</a><br /><a href="To-Be-Free/" target="self" title="To Be Free">To Be Free</a><br /><a href="Towards-The-Rising-Sun/" target="self" title="Towards The Rising Sun">Towards The Rising Sun</a><br /><a href="Wartime-Medley/" title="Wartime Medley">Wartime Medley</a><br /><a href="We-Are-Home-Here/" title="We Are Home Here">We Are Home Here</a><br /><a href="Welcome-Song/" target="self" title="Welcome Song">Welcome Song</a><br /><a href="What-Im-Feeling/" target="self" title="What I&#39;m Feeling">What I'm Feeling</a><br /><a href="What-Is-Real/" title="What Is Real">What Is Real?</a><br /><a href="Creatures-of-the-Night/" target="self" title="Creatures of the Night">Where Is Home?</a><br /><br /></div></div></div><div class='stacks_div stacks_column_right stacks_column_4'><div id='stacks_out_2816769_2518938' class='stacks_out'><div id='stacks_in_2816769_2518938' class='stacks_in text_stack'>Member of&hellip;</div></div><div id='stacks_out_2816769_2518940' class='stacks_out'><div id='stacks_in_2816769_2518940' class='stacks_in com_blueballdesign_freestackrimage_stack'>
+<div class='centered_image' >
+    <a href="https://musicaustralia.org.au/" rel="external"><img class='imageStyle' src='index_files/stacks-image-5c528c7.png' alt='music australia logo' /></a>
+</div>
+
+</div></div><div id='stacks_out_2816769_2518942' class='stacks_out'><div id='stacks_in_2816769_2518942' class='stacks_in com_blueballdesign_freestackrimage_stack'>
+<div class='centered_image' >
+    <a href="http://anca.org.au/" rel="external"><img class='imageStyle' src='index_files/stacks-image-e4cf8f9.png' alt='Australian National Choral Association logo' /></a>
+</div>
+
+</div></div><div id='stacks_out_2816769_2518944' class='stacks_out'><div id='stacks_in_2816769_2518944' class='stacks_in text_stack'>SongLibrary<br />PO Box 412<br />Bridgewater <br />SA 5155 <br />Australia<br /><br />ABN <span style="font:12px Arial, Verdana, Helvetica, sans-serif; ">64519137876</span></div></div></div><div class='stacks_div stacks_column_right stacks_column_4'><div id='stacks_out_2816769_2518947' class='stacks_out'><div id='stacks_in_2816769_2518947' class='stacks_in text_stack'><span style="font-size:13px; color:#FF6633;font-weight:bold; ">MUSICALS</span></div></div><div id='stacks_out_2816769_2518949' class='stacks_out'><div id='stacks_in_2816769_2518949' class='stacks_in text_stack'><strong><a href="Arlie-Abbstock/" target="self" title="Arlie Abbstock">Arlie Abbstock & the Incredible Cape</a></strong><strong><br /><br /></strong><strong><a href="One-Drop-Of-Rain/" title="One Drop Of Rain">One Drop Of Rain</a></strong></div></div><div id='stacks_out_2816769_2518951' class='stacks_out'><div id='stacks_in_2816769_2518951' class='stacks_in text_stack'><span style="font-size:13px; color:#FF6633;font-weight:bold; ">SONG CYCLES</span></div></div><div id='stacks_out_2816769_2518953' class='stacks_out'><div id='stacks_in_2816769_2518953' class='stacks_in text_stack'><strong><a href="Space-Race/" title="Space Race">SPACE RACE<br /></a></strong><ul class="disc"><li><a href="Space-Race/" title="Space Race">Gagarin (Beyond Blue Sky)</a></li><li><a href="Space-Race/" title="Space Race">Space Race (To Every Question)</a></li><li><a href="Space-Race/" title="Space Race">The Children of the World (July 1969)</a></li><li><a href="Space-Race/" title="Space Race">Apollo 11 (Homecoming)</a></li></ul><strong><a href="Dance-Crazy/" target="self" title="Dance Crazy!">Dance Crazy!</a></strong><br /><ul class="disc"><li><a href="Dance-Crazy/The-Beat/" target="self" title="The Beat">The Beat</a></li><li><a href="Dance-Crazy/The-Jazz-Age/" target="self" title="The Jazz Age">The Jazz Age</a></li><li><a href="Dance-Crazy/Jitterbug-Jive-Boogie-Woogie/" target="self" title="Jitterbug, Jive &#38; Boogie-Woogie">Jitterbug, Jive & Boogie-Woogie</a></li><li><a href="Dance-Crazy/Dance-Craze-Crazy/" target="self" title="Dance Craze Crazy">Dance Craze Crazy</a></li><li><a href="Dance-Crazy/Disco-Diva/" target="self" title="Disco Diva">Disco Diva</a></li><li><a href="Dance-Crazy/Mixing-The-Beats/" target="self" title="Mixing The Beats">Mixing The Beats</a></li></ul><strong><a href="A-Boy-Called-Wolfie/" target="self" title="A Boy Called Wolfie">A Boy Called Wolfie</a></strong><br /><ul class="disc"><li><a href="A-Boy-Called-Wolfie/Ah-vous/" target="self" title="Ah, vous">Ah, vous dirai je Maman</a></li><li><a href="A-Boy-Called-Wolfie/Thats-My-Boy/" target="self" title="That&#39;s My Boy">That's My Boy</a></li><li><a href="A-Boy-Called-Wolfie/My-Little-Brother/" target="self" title="My Little Brother">My Little Brother</a></li><li><a href="A-Boy-Called-Wolfie/Austrian-Idol-On-Tour/" target="self" title="Austrian Idol On Tour">Austrian Idol On Tour</a></li><li><a href="A-Boy-Called-Wolfie/Genius-At-Work/" target="self" title="Genius At Work">Genius At Work</a></li><li><a href="A-Boy-Called-Wolfie/Live-Forever-More/" target="self" title="Live Forever More">Live Forever More</a></li></ul></div></div></div></div></div>
+</div></div><div id='stacks_out_2816769_2518924' class='stacks_out'><div id='stacks_in_2816769_2518924' class='stacks_in com_blueballdesign_freestackrfooter_stack'><div id="footer">&copy; 2023 SongLibrary | <a href="https://songlibrary.net/privacy-policy">Privacy Policy</a> | <a href="https://songlibrary.net/contact">Contact</a></div>
+
+</div></div>
+</div></div></div></div><div id='stacks_out_2816769_2518959' class='stacks_out stacks_l_hidden stacks_m_hidden'><div id='stacks_in_2816769_2518959' class='stacks_in cssDiv_stack'><!-- cssDiv v2.0.1 Stacks 1 by Ed Brenner -->
+<div id="mobile_footer">
+<div id='stacks_out_2816769_2518960' class='stacks_out'><div id='stacks_in_2816769_2518960' class='stacks_in com_blueballdesign_freestackrfooter_stack'><div id="footer">&copy; 2023 SongLibrary | <a href="https://songlibrary.net/privacy-policy">Privacy Policy</a> | <a href="https://songlibrary.net/contact">Contact</a></div>
+
+</div></div>
+</div>
+<!-- end cssDiv Stack --></div></div></div></div>
+</div></div>
+</div>
+<!-- end cssDiv Stack --></div></div></div></div><div id='stacks_out_30118' class='stacks_out'><div id='stacks_in_30118' class='stacks_in html_stack'><script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "https://songlibrary.net”,
+      "logo": "https://songlibrary.net/resources/songlibrary_logo.png"
+    }
+    </script></div></div></div></div><script type="text/javascript" src="vibracartpro/vcsettingspopup.js"></script>
+<script type="text/javascript" src="vibracartpro/vibracart.js"></script>
+<script type="text/javascript">startcart();</script>
+
+		</div>
+		
+	</div>
+
+	<script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script>
+</body>
+
+</html>
